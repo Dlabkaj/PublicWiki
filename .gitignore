@@ -1,0 +1,5 @@
+.obsidian/
+.obsidian*
+Thumbs.db
+.DS_Store
+.nerd/

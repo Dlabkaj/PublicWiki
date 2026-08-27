@@ -1,0 +1,6 @@
+# GitHub Actions matrix strategy patterns
+
+Landing page for **GitHub Actions matrix strategy patterns**. Sub-pages:
+
+- [MatrixStrategy](MatrixStrategy.md) — A matrix strategy in GitHub Actions lets a single job definition automatically expand into multiple runs, one per…
+- [ReusableWorkflows](ReusableWorkflows.md) — A reusable workflow is a workflow file that other workflows can invoke as a job, letting a caller pass inputs and…
