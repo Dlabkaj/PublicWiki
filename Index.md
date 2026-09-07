@@ -7,7 +7,28 @@ Update this file whenever a page is added or removed.
 
 ---
 
+## Agenti
+
+### AIArchitect
+
+[[AIArchitect/Index]] — agent zpracovávající architektonickou studii RD. Drží jen věci specifické pro agenta: mapa téma → fáze skillu, konvence psaní, log rešerší. Fakta leží v tématických složkách níže.
+
+| Page | Description |
+| ---- | ----------- |
+| [[AIArchitect/Conventions]] | Pravidla psaní a citování ve wiki, značky `*(neověřeno)*` / `*(1 zdroj)*` / `⚠️ ROZPOR` |
+| [[AIArchitect/Log]] | Chronologický log rešerší agenta, nejnovější nahoře |
+
 ## Stavba a legislativa (ČR)
+
+### Legislativa
+
+[[Legislativa/Index]] — právní rámec ČR pro rodinný dům: hierarchie předpisů, vyhláška o požadavcích na výstavbu, závaznost ČSN, městské stavební předpisy. Zpracováno 2026-07-27, 12 zdrojů.
+
+| Page | Description |
+| ---- | ----------- |
+| [[Legislativa/PozadavkyNaVystavbu]] | Vyhl. č. 146/2024 Sb. ve znění nov. č. 97/2026 Sb. — § 11 odstupy, § 20 osvětlení/proslunění/stínění 45°, § 38 světlé výšky, § 13 oplocení, § 18–19 větrání, § 61 dobíjecí body |
+| [[Legislativa/NormyCSN]] | Závaznost ČSN (výlučný vs. indikativní odkaz), § 94 vs. příloha č. 14; ČSN 73 4301 nové vydání 6/2026 — obsah nezískán |
+| [[Legislativa/MestskePredpisy]] | Praha 12/2024, Brno 14/2024, Ostrava od 1. 1. 2025 — vlastní pravidla, celostátní vyhláška podpůrně |
 
 ### ArchitekturaRDObecnaPravidlaACasteChyby
 

@@ -10,6 +10,8 @@
 
 **Poslední aktualizace**: 2026-07-26 (pass 2 — dohledána a doplněna vyhl. 146/2024 Sb.)
 
+> **Novější zpracování vyhlášky**: [[../Legislativa/PozadavkyNaVystavbu]] (ověřeno 2026-07-27) drží doslovné znění § 11 vyhl. č. 146/2024 Sb. **včetně novely č. 97/2026 Sb. účinné od 1. 7. 2026**, plus § 20 (osvětlení, proslunění, stínění 45°), § 38 (světlé výšky), § 13 (oplocení), § 18–19 (větrání) a § 61 (dobíjecí body). Tato stránka novelu nezná — pro citaci paragrafu použij [[../Legislativa/PozadavkyNaVystavbu]]; zde zůstává praktický výklad a historický kontext staré vyhl. 501/2006 Sb.
+
 ---
 
 ## Odstupové vzdálenosti — starý stavební zákon (řízení zahájená do 30. 6. 2024)
