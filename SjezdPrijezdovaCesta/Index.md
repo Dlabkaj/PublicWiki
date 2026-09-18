@@ -25,7 +25,7 @@
 
 ## Praktické nástroje
 
-- Skill [sjezd-permit-skill](../../../../../.claude/skills/sjezd-permit-skill/SKILL.md) — triage, rozhodovací strom, checklist, šablona žádosti
+- Skill [sjezd-permit-skill](https://github.com/Dlabkaj/AIArchitect/blob/main/.claude/skills/sjezd-permit-skill/SKILL.md) (v repu AIArchitect) — triage, rozhodovací strom, checklist, šablona žádosti
 - Procesní diagram: `output/sjezd/SjezdPovolovaciProces.drawio`
 
 ## Poznámky
