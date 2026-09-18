@@ -137,6 +137,5 @@ Kancelář uzavírá, že jednotlivé změny samy o sobě představují podstatn
 ## See also
 
 - [[KoeficientZastaveni]]
-- [[Odstupy]]
 - [[Zastineni]]
 <!-- /nerd:links -->

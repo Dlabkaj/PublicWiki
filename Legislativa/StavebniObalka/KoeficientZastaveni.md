@@ -170,12 +170,13 @@ Doslovné znění **§ 21 odst. 3** vyhlášky 501/2006 Sb.:
 > a) samostatně stojícího rodinného domu a stavby pro rodinnou rekreaci nejméně **0,4**,
 > b) řadového rodinného domu a bytového domu nejméně **0,3**."
 
-**Není to 50 %, ale 40 %** u samostatně stojícího rodinného domu a 30 % u řadového. Zároveň
-v tomto znění **není žádná podmínka odstupu 2 m** — tu ESTAV.cz uvádí spolu s číslem 50 %
+**Ve starém plošném limitu to není 50 %, ale 40 %** u samostatně stojícího rodinného domu a 30 %
+u řadového. Zároveň v tomto znění **není žádná podmínka odstupu 2 m** — tu ESTAV.cz uvádí spolu
+s číslem 50 %
 (source: https://www.estav.cz/cz/7058.zastavenost-pozemku-reguluje-jakou-rozlohu-muze-mit-rodinny-dum-i-zpevnene-plochy).
-Obojí pravděpodobně pochází ze **staršího, překonaného znění** § 21 odst. 3; kterou novelou se
-změnilo, jsme neověřovali. *(needs second source)* pro dataci té změny — samotné aktuální znění
-0,4 / 0,3 ověřeno v registru je.
+Ta dvojice „50 % + odstup 2 m“ ale není omyl — je to **doslovná podmínka drobných staveb podle
+přílohy č. 1 zákona 283/2021 Sb.**, kterou zdroj jen přiřadil ke špatnému ustanovení. Viz oddíl
+o 50 % níže. Samotné aktuální znění 0,4 / 0,3 v § 21 odst. 3 je ověřeno v registru.
 
 ### A hlavně: ten požadavek dnes už neplatí vůbec
 
@@ -191,14 +192,60 @@ staveb — nikde jako plošný limit pozemku
 > neexistuje, viz opravenou stránku [[PrechodneObdobi]]. Pro nové řízení se poměr vsakovací plochy
 > **nepočítá**.
 
-**Pro fázi B1 to je čistý zisk plochy.** Odpadl tvrdý druhý limit, který obálku omezoval nezávisle
-na koeficientu zastavění; zbývá koeficient z územního plánu. Obálka nakreslená podle staré
-40% rezervy je zbytečně malá.
+**Pro fázi B1 to je částečný zisk plochy.** Odpadl plošný 40% limit, který obálku omezoval
+nezávisle na koeficientu zastavění; obálka nakreslená podle staré 40% rezervy je zbytečně malá.
+Ale **není to zisk čistý** — viz následující oddíl.
 
-Zůstává ovšem povinnost **hospodaření se srážkovými vodami** jako taková — § 20 odst. 5 písm. c)
-staré vyhlášky ji formuloval jako podmínku vymezení pozemku, dnes ji nese vodní zákon a § 21
-vyhlášky 146/2024 Sb. o odvádění odpadních vod. Zmizel **číselný poměr**, ne povinnost vodu na
-pozemku zvládnout. Vsak se tedy v B1 dál řeší, jen už není ve tvaru „40 % pozemku".
+### Ale 50 % zůstalo — v zákoně, jako podmínka zjednodušeného režimu
+
+> **DOPLNĚNO 2026-09-07** proti plnému znění zákona č. 283/2021 Sb. staženému z e-sbírky
+> (source: https://e-sbirka.gov.cz/sb/2021/283).
+
+Číslo **50 %** není přežitek z 501/2006 Sb. ani chyba sekundárního zdroje. Žije v **platném
+stavebním zákoně**, jen se váže na něco jiného než starý poměr 0,4: není to plošný požadavek na
+pozemek, ale **podmínka, za které se něco smí postavit bez povolení**. Vyskytuje se na třech
+místech a pokaždé stejnou větou — „plocha části pozemku schopného vsakovat dešťové vody po jejím
+umístění bude nejméně 50 % z celkové plochy pozemku“:
+
+| Ustanovení 283/2021 Sb. | Na co dopadá |
+|---|---|
+| **§ 214 odst. 1 písm. e)** | úprava pozemku, která má vliv na schopnost vsakování vody, na pozemku stavby pro bydlení — **nevyžaduje povolení změny využití území** |
+| **příloha č. 1 odst. 1 písm. a) body 1., 3., 4.** | drobné stavby do 40 m² zastavěné plochy na pozemku rodinného domu (kůlna, dílna, přístřešek), navíc s odstupem nejméně 2 m |
+| **příloha č. 2 písm. q)** | jednoduchá stavba pro bydlení do 80 m² na pozemku rodinného domu, funkčně s ním spojená |
+
+Doslovné znění § 214 odst. 1 písm. e):
+
+> „úprava pozemku, která má vliv na schopnost vsakování vody, provedená na pozemku stavby pro
+> bydlení nebo rodinnou rekreaci, která souvisí nebo podmiňuje bydlení nebo rodinnou rekreaci,
+> neslouží ke skladování hořlavých látek nebo výbušnin, není v rozporu s územně plánovací
+> dokumentací a plocha části pozemku schopného vsakovat dešťové vody po jejím provedení bude
+> nejméně 50 % z celkové plochy pozemku stavby pro bydlení nebo rodinnou rekreaci“
+>
+> (source: https://e-sbirka.gov.cz/sb/2021/283, § 214 odst. 1)
+
+**Rozdíl proti starému režimu je zásadní.** Starých 0,4 podle § 21 odst. 3 vyhl. 501/2006 Sb. bylo
+**nepodmíněné** — nesplnil-li se poměr, nesměl se dům umístit vůbec. Dnešních 50 % je
+**podmínkou výhody**: kdo je nesplní, smí pořád stavět, ale ke kůlně, k terénní úpravě měnící
+vsakování nebo k přístavbě do 80 m² už musí projít povolovacím procesem.
+
+**Pro fázi B1 to je strop na součet staveb a zpevněných ploch, ne na samotný dům** — a strop
+podmíněný tím, co klient na pozemku ještě plánuje. Chce-li kůlnu, garáž jako drobnou stavbu,
+přístavbu do 80 m² nebo přesypání terénu, musí obálka počítat s **rezervou 50 % vsakovací plochy**.
+Pokud ne, rezerva odpadá a platí jen koeficient zastavění z územního plánu. Je to tedy otázka na
+klienta ve fázi A, ne technický údaj — a odpověď „to uvidíme později“ znamená držet rezervu.
+
+> **Asymetrie, která vypadá jako chyba zákonodárce, ale je v textu.** Skleník do 40 m² a **bazén
+> do 40 m²** (příloha č. 1 odst. 1 písm. a) bod 2.) podmínku 50 % **nemají** — mají jen odstup
+> nejméně 2 m od hranice pozemku. Bazén tedy jako drobná stavba obstojí i na silně zpevněném
+> pozemku, kůlna vedle něj ne.
+
+Zůstává navíc povinnost **hospodaření se srážkovými vodami** jako taková — § 20 odst. 5 písm. c)
+staré vyhlášky ji formuloval jako podmínku vymezení pozemku, dnes ji nese vodní zákon, § 145
+odst. 1 písm. c) zákona 283/2021 Sb. (akumulace a následné využití, vsakování nebo výpar; odvádění
+do vod povrchových teprve tehdy, když vsak ani akumulace nejsou možné) a § 21 vyhlášky
+146/2024 Sb. o odvádění odpadních vod. Zmizel **číselný poměr jako bezpodmínečný limit**, ne
+povinnost vodu na pozemku zvládnout. Vsak se tedy v B1 řeší dál, a to ve dvou tvarech: jako
+návrhová povinnost vždy, a jako 50% rezerva tehdy, když klient chce využít zjednodušený režim.
 
 Zmínku ESTAVu o „**§ 79 odst.**" k vsakování u staveb pro rodinnou rekreaci se nepodařilo přiřadit
 k žádnému předpisu — § 79 vyhlášky 146/2024 Sb. o vsakování nepojednává. Zdroj uvádí číslo
@@ -208,8 +255,8 @@ paragrafu bez předpisu; považujeme to za neověřitelné a v B1 se o to neopí
 
 | Požadavek | Stará úprava (501/2006 Sb., zrušena) | Nová úprava (146/2024 Sb.) |
 |---|---|---|
-| poměr vsakovací plochy, samostatný RD | **0,4** (§ 21 odst. 3) | **žádný** |
-| poměr vsakovací plochy, řadový RD / BD | **0,3** (§ 21 odst. 3) | **žádný** |
+| poměr vsakovací plochy, samostatný RD | **0,4** (§ 21 odst. 3), bezpodmínečně | **žádný plošný**; 50 % jen jako podmínka zjednodušeného režimu (283/2021 Sb.) |
+| poměr vsakovací plochy, řadový RD / BD | **0,3** (§ 21 odst. 3), bezpodmínečně | **žádný plošný**; totéž podmíněných 50 % |
 | stavba pro podnikání na pozemku RD | **25 m²**, 5 m, 1 NP, podsklepení do 3 m (§ 21 odst. 4) | **40 m²**, 5 m, 1 NP + 1 PP (§ 10 odst. 3) |
 | přístupová komunikace k RD | zpevněná, **min. 2,5 m** široká, konec do 50 m od stavby (§ 20 odst. 7) | **bez číselného požadavku** |
 

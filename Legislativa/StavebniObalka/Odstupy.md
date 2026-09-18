@@ -88,7 +88,6 @@ optimistická a v dalších fázích se hroutí.
 ## See also
 
 - [[Normy]]
-- [[PrechodneObdobi]]
 - [[StavebniZakon283-2021]]
 - [[Zastineni]]
 <!-- /nerd:links -->

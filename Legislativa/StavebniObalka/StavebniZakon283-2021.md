@@ -18,7 +18,7 @@ ty odkazují na provádějící vyhlášku. Pro odvození polygonu „kde smím 
 | Díl 4 — Technické požadavky na stavby | § 145 – § 151 | až následná fáze, pro B1 okrajové |
 | Díl 5 — Společná ustanovení | § 152 | — |
 
-Rozdělení je pro fázi B1 zásadní: **Odstupy a poloha spadají pod Díl 3, nikoliv pod technické
+Rozdělení je pro fázi B1 zásadní: **[[Odstupy]] a poloha spadají pod Díl 3, nikoliv pod technické
 požadavky.** Agent, který hledá odstup mezi technickými požadavky, ho tam nenajde.
 
 ## Výjimka z požadavků na výstavbu existuje

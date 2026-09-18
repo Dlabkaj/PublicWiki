@@ -118,7 +118,7 @@ o zastínění nemá.
 ## Vazba na ČSN — § 94
 
 **§ 94:** Požadavky uvedené ve vyjmenovaných ustanoveních — mezi nimi **§ 19,
-§ 20 odst. 3** a **příloha č. 4** — se považují za splněné, jsou-li splněny požadavky **normy nebo
+§ 20 odst. 3** a **příloha č. 4** — se považují za splněné, jsou-li splněny požadavky **[[Normy]] nebo
 její části určené ve věstníku Úřadu pro technickou normalizaci, metrologii a státní zkušebnictví
 (ÚNMZ)**. Tyto požadavky mohou být splněny **i jiným technickým řešením**, pokud se prokáže, že
 navržené řešení garantuje nejméně základní požadavky na stavby podle stavebního zákona.

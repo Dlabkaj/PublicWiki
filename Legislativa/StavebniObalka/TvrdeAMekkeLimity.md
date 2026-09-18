@@ -178,5 +178,6 @@ od položky „splnění požadavků na výstavbu". Jsou to dva různé režimy 
 ## See also
 
 - [[Normy]]
+- [[OchrannaPasma]]
 - [[Zastineni]]
 <!-- /nerd:links -->
