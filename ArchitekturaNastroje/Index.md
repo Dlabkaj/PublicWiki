@@ -18,6 +18,8 @@ Posouzení nástrojů, kterými LLM agent reálně vyprodukuje půdorysy, řezy,
 
 ## Doporučený pipeline (jeden)
 
+> **Revize 2026-09-18:** zdrojem pravdy už není IFC, ale strukturovaný JSON model (pozemek, zadání, varianta). Z něj se odvozují všechny výstupy: 2D schéma, Sweet Home 3D (`.sh3d` generovaný přímo), Blender/Cycles vizualizace a později IFC pro předání a kontrolu IDS. Důvod: jeden model pro N rendererů. IFC jako autorská vrstva je pro studii zbytečně těžké a agent ho špatně edituje. Rozhodnutí je zapsané v repozitáři AIArchitect, `docs/decisions/0001-one-model-n-renderers.md`. Níže popsaný IFC řetězec platí dál pro **výstupní** větev (předání, kontrola), ne pro autorství.
+
 **IfcOpenShell-Python jako autorská vrstva → IFC jako zdrojový soubor → výkresy generované z modelu → IfcTester/IDS jako kontrola → ControlNet/ComfyUI jen na náladové vizualizace.**
 
 Konkrétně:
@@ -76,5 +78,5 @@ Nad to dvě kontroly nad tabulkou ploch: `ifccsv` vyexportuje plochy z modelu a 
 
 - IfcTester ani zdroje k IDS neuvádějí příklad kontroly **kót** nebo tabulky ploch — vrstva 3 výše je návrh, ne doložený postup; je třeba ověřit, co všechno IDS na IfcSpace/quantity dovolí vyjádřit.
 - Zdroje nepopisují, jak z IfcOpenShell/Bonsai vygenerovat kompletní výkresový list (rámeček, razítko, měřítko) headless — u FreeCADu je to doložené omezení, u Bonsai neověřeno.
-- Není doloženo, zda existuje jiná cesta automatizace Sweet Home 3D než Java plugin / MCP plugin (např. přímá generace `.sh3d` souboru).
+- ~~Není doloženo, zda existuje jiná cesta automatizace Sweet Home 3D než Java plugin / MCP plugin (např. přímá generace `.sh3d` souboru).~~ **Vyřešeno 2026-09-18:** existuje. `.sh3d` je zip s `Home.xml` a ručně (skriptem) zapsané XML se v Sweet Home 3D 7.4 otevře. Okna a dveře s `catalogId` z výchozího katalogu se dohledají při načtení, takže modely není nutné vkládat. Ověřeno vlastní praxí 2026-07-15 *(needs second source)*.
 - Blueprint-Bench měří rekonstrukci z fotek, ne generování ze zadání — přímé srovnání obou úloh na jednom benchmarku chybí.

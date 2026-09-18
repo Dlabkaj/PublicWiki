@@ -32,7 +32,7 @@ Konvence psaní: [[Conventions]] · Historie rešerší: [[Log]]
 
 ## Rozhodnutí, která z rešerší vzešla
 
-- **Kreslení**: pipeline IfcOpenShell-Python → IFC → výkresy z modelu → kontrola IfcTester/IDS. Generátor obrázků (ControlNet) jen na náladové vizualizace, nikdy jako výkres. Odůvodnění: [[../ArchitekturaNastroje/Index]], strop kvality LLM: [[../ArchitekturaNastroje/StropKvalityLLM]].
+- **Kreslení** (revize 2026-09-18): jeden JSON model, N rendererů. Rychlé 2D schéma, Sweet Home 3D (generovaný `.sh3d`) a Blender/Cycles vizualizace se všechny odvozují z JSON. IFC je odvozený výstup pro předání a kontrolu IfcTester/IDS. Generátor obrázků (ControlNet) jen na náladu, nikdy jako výkres. Rozhodnutí: AIArchitect `docs/decisions/0001-one-model-n-renderers.md`. Odůvodnění: [[../ArchitekturaNastroje/Index]], strop kvality LLM: [[../ArchitekturaNastroje/StropKvalityLLM]].
 - **Cena**: propočet podle cenových ukazatelů RTS (Kč/m³ obestavěného prostoru dle ČSN 73 4055), výstup jako rozpětí. Postup: [[../CenovaMetodikaStaveb/PostupOdhadu]].
 - **Právo**: hotová doložka disclaimeru a licence včetně práva na úpravy je v [[../ZivnostOdpovednostCR/Index]]. **Není to právní stanovisko** — před komerčním provozem konzultovat s advokátem.
 
