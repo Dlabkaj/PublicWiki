@@ -21,6 +21,7 @@ Konvence psaní: [[Conventions]] · Historie rešerší: [[Log]]
 | **Osazení domu na pozemku** | [[../OsazeniNaPozemku/Index]] | **B3** |
 | **Dispoziční varianty** | [[../DispozicniVarianty/Index]] | **B4** |
 | **Kontrola varianty** | [[../KontrolaVarianty/Index]] | **B5** |
+| **Cenová metodika a náklady** | [[../CenovaMetodikaStaveb/Index]] | **B6–B7** |
 | Sjezd a příjezdová cesta | [[../SjezdPrijezdovaCesta/Index]] | A2, B3 |
 | Zasíťování pozemku | [[../ZasitovaniPozemku/Index]] | A2, B3 |
 | Podklady k pozemku a postupy řízení | [[../ZasitovaniPozemku/PodkladyPozemku/Index]] | A2, B1 |
@@ -47,6 +48,7 @@ Konvence psaní: [[Conventions]] · Historie rešerší: [[Log]]
 | Poměr A/V a porovnání variant | zpracováno a zrevidováno 2026-09-21, 1 blokující rozpor | 7 |
 | Osazení na pozemku — doprava, přípojky a vsak, poloha a proslunění | zpracováno a zrevidováno 2026-09-22, 0 nedoložených údajů | 24 |
 | Dispozice — plochy, zónování, komunikace a schodiště, jádra a okna | zpracováno a zrevidováno 2026-09-23, 12 otevřených údajů s tagem | 29 |
+| DPH u stavby pro bydlení a podíl práce | zpracováno 2026-09-23; DPH z primárního textu, podíl práce zůstává na jediném zdroji | 2 |
 | Kontrola varianty — požární bezpečnost, konstrukce, přístupnost a výjimky | zpracováno 2026-09-23; požární úloha zůstává STOP_NEEDS_WORK, protože zbylé tagy uzavřou jen placené normy | 11 |
 
 ## Rozhodnutí, která z rešerší vzešla
@@ -54,6 +56,15 @@ Konvence psaní: [[Conventions]] · Historie rešerší: [[Log]]
 - **Kreslení** (revize 2026-09-18): jeden JSON model, N rendererů. Rychlé 2D schéma, Sweet Home 3D (generovaný `.sh3d`) a Blender/Cycles vizualizace se všechny odvozují z JSON. IFC je odvozený výstup pro předání a kontrolu IfcTester/IDS. Generátor obrázků (ControlNet) jen na náladu, nikdy jako výkres. Rozhodnutí: AIArchitect `docs/decisions/0001-one-model-n-renderers.md`. Odůvodnění: [[../ArchitekturaNastroje/Index]], strop kvality LLM: [[../ArchitekturaNastroje/StropKvalityLLM]].
 - **Cena**: propočet podle cenových ukazatelů RTS (Kč/m³ obestavěného prostoru dle ČSN 73 4055), výstup jako rozpětí. Postup: [[../CenovaMetodikaStaveb/PostupOdhadu]].
 - **Poměr A/V** (2026-09-21): A/V se ve studii uvádí jako **srovnání hmotových variant**, ne jako průkaz energetické náročnosti — ČSN 73 0540-2 (8/2025) požadavek na Uem zrušila a vyhl. č. 264/2020 Sb. žádnou mez A/V nestanoví. Pásma A/V pro RD existují ve dvou nezávislých výukových pramenech, ale vzájemně si odporují a e-genius měří `V` jako obestavěný prostor — slouží proto jen jako kontrola řádu, ne jako hodnocení ([[../HmotoveReseniRD/PomerAV/TypickaPasmaAV]]). Vedle A/V se počítá RC (vůči krychli stejného objemu), protože A/V klesá i jen s velikostí domu. Ve vyhl. č. 264/2020 Sb. A/V nevystupuje vůbec. Nástroj: AIArchitect `tools/av/av.py`. Podklad: [[../HmotoveReseniRD/PomerAV/Index]].
+- **Odhad ceny** (2026-09-23): o **sazbě DPH rozhoduje dispozice**. RD s podlahovou plochou do
+  **350 m²** je stavba pro sociální bydlení (§ 48a odst. 1 písm. b) zák. č. 235/2004 Sb.), takže na
+  stavební práce jde **12 % místo 21 %** (§ 49 odst. 1); plocha se počítá podle
+  **vyhl. č. 163/2025 Sb.**, která nezapočítává schodiště, lodžii ani půdu, u šikmin měří v 1,2 m
+  nad podlahou, ale garáž uvnitř domu započítává. Hranice 120 m² z téhož paragrafu se týká obytného
+  prostoru, ne RD. Cenový ukazatel je **ZRN** (bez VRN, rezervy, soft costs a DPH) s odchylkou běžně
+  ±15 %, takže výstup B6 je **rozpětí**. Nástroj: AIArchitect `tools/cena/cena.py` s cenovými
+  ukazateli v `tools/cena/ukazatele.json` (hladina 2026/I, hlásí zastarání).
+  Podklad: [[../CenovaMetodikaStaveb/DphUStavbyProBydleni]].
 - **Kontrola varianty** (2026-09-23): tři pravidla, která mění dosavadní postup fáze B5.
   (1) **Seznam prominutelných požadavků je uzavřený.** § 95 vyhlášky jmenuje mj. počet stání
   (§ 7 odst. 1 a 3), **odstup 2 m a stavební čáru** (§ 11 odst. 1, 2 a 4) a podjezdnou výšku garáže
@@ -101,6 +112,9 @@ Konvence psaní: [[Conventions]] · Historie rešerší: [[Log]]
 - ~~Doslovný text § 11 odst. 3–7 a § 20 vyhl. 146/2024 Sb.~~ — **získán 2026-09-22** z úplného znění e-Sbírky (znění účinné od 1. 7. 2026, konsolidované — text odkazuje na vyhl. č. 43/2025 Sb. a nař. vl. č. 162/2025 Sb.). Doslovné citace jsou v [[../OsazeniNaPozemku/PolohaAStavebniCara]] a [[../OsazeniNaPozemku/OsvetleniAProsluneni]]. **Otevřená zůstává jen příloha č. 4** — je to grafika a z textového exportu registru ji vytáhnout nelze.
 - Obsah nového vydání ČSN 73 4301 (6/2026) — placená norma, nezískána. Do té doby se z ní nesmí citovat žádná hodnota ([[../Legislativa/NormyCSN]]).
 - **Požární bezpečnost RD** — zpracováno ([[../Legislativa/PozarniBezpecnostRD/Index]]). Otevřené zbývají dva body: zda po rekodifikaci stále platí hranice 200 m² zastavěné plochy RD pro státní požární dozor (opora byla v zrušeném § 104 odst. 1 písm. a) zák. č. 183/2006 Sb.) a rozpor 650 m² (TP 1.7 ČKAIT) vs. 600 m² (§ 15 odst. 2 vyhl. č. 23/2008 Sb.) u přístřešků. Do rozhodnutí platí nižší, vyhláškou daná hodnota. *(Doplněno 2026-09-22: hranice 200 m² se objevila i v odborném článku k sjezdům, tedy podruhé a nezávisle — ale ani jeden z obou výskytů není právní předpis, takže bod zůstává otevřený.)*
+- **Podíl práce v ceně díla (35–60 %)** — jediný dohledaný zdroj; hledáno znovu 2026-09-23 a druhý
+  zdroj se nenašel. Strop úspory ze svépomoci proto zůstává pásmem, ne číslem.
+- **Pásma VRN a soft costs** v `tools/cena/ukazatele.json` jsou z praxe, ne z citovatelného zdroje.
 - **Doslovná dikce povinnosti PBŘ u rodinného domu** — doloženo jen články ČKAIT a ESTAV
   ([[../KontrolaVarianty/PozarniBezpecnostRD]]).
 - **Odstupové vzdálenosti podle ČSN 73 0833 / 73 0802** a **ČSN 73 4001** — placené normy; hodnoty
