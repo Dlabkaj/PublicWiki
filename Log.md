@@ -300,3 +300,51 @@ Append-only record of what NERD did to this wiki, newest last.
 - pages: OsazeniNaPozemku/OsvetleniAProsluneni.md, OsazeniNaPozemku/PolohaAStavebniCara.md, OsazeniNaPozemku/TerasaVedlejsiObjektyOploceni.md
 - chars: 0
 - run: 20260922T172721Z-a701
+
+## [2026-09-23] ingest | Plochy a minimalni rozmery obytnych misnosti RD
+
+- pages: PlochyAMinimalniRozmery, SvetleVyskyAPodchodneVysky
+- chars: 0
+- run: 20260923T045551Z-90f3
+
+## [2026-09-23] ingest | Zonovani dispozice RD a orientace ke svetovym stranam
+
+- pages: CasteDispozicniChyby, ZonovaniAOrientace
+- chars: 0
+- run: 20260923T045551Z-5037
+
+## [2026-09-23] ingest | Komunikacni plochy a schodiste v RD
+
+- pages: KomunikacniPlochyAZadveri, Schodiste
+- chars: 0
+- run: 20260923T045551Z-dd65
+
+## [2026-09-23] ingest | Hygienicka jadra, TZB a okna v dispozici RD
+
+- pages: HygienickaJadraATZB, OknaADenniOsvetleni
+- chars: 0
+- run: 20260923T045551Z-0621
+
+## [2026-09-23] review | Plochy a minimalni rozmery obytnych misnosti RD
+
+- pages: PlochyAMinimalniRozmery, SvetleVyskyAPodchodneVysky
+- chars: 0
+- run: 20260923T045705Z-da50
+
+## [2026-09-23] review | Hygienicka jadra, TZB a okna v dispozici RD
+
+- pages: HygienickaJadraATZB, OknaADenniOsvetleni
+- chars: 0
+- run: 20260923T045706Z-8617
+
+## [2026-09-23] review | Zonovani dispozice RD a orientace ke svetovym stranam
+
+- pages: CasteDispozicniChyby, ZonovaniAOrientace
+- chars: 0
+- run: 20260923T045706Z-accf
+
+## [2026-09-23] review | Komunikacni plochy a schodiste v RD
+
+- pages: KomunikacniPlochyAZadveri, Schodiste
+- chars: 0
+- run: 20260923T045707Z-c42f

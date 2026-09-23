@@ -19,6 +19,7 @@ Konvence psaní: [[Conventions]] · Historie rešerší: [[Log]]
 | Nástroje pro kreslení a vizualizaci | [[../ArchitekturaNastroje/Index]] | B1–B4, B10, C (výkresová část) |
 | Živnost, odpovědnost, licence, GDPR | [[../ZivnostOdpovednostCR/Index]] | D (licence pro projektanta), právní doložky |
 | **Osazení domu na pozemku** | [[../OsazeniNaPozemku/Index]] | **B3** |
+| **Dispoziční varianty** | [[../DispozicniVarianty/Index]] | **B4** |
 | Sjezd a příjezdová cesta | [[../SjezdPrijezdovaCesta/Index]] | A2, B3 |
 | Zasíťování pozemku | [[../ZasitovaniPozemku/Index]] | A2, B3 |
 | Podklady k pozemku a postupy řízení | [[../ZasitovaniPozemku/PodkladyPozemku/Index]] | A2, B1 |
@@ -44,12 +45,28 @@ Konvence psaní: [[Conventions]] · Historie rešerší: [[Log]]
 | Tvar a sklon střechy, osazení k terénu | zpracováno a zrevidováno 2026-09-21 | 12 |
 | Poměr A/V a porovnání variant | zpracováno a zrevidováno 2026-09-21, 1 blokující rozpor | 7 |
 | Osazení na pozemku — doprava, přípojky a vsak, poloha a proslunění | zpracováno a zrevidováno 2026-09-22, 0 nedoložených údajů | 24 |
+| Dispozice — plochy, zónování, komunikace a schodiště, jádra a okna | zpracováno a zrevidováno 2026-09-23, 12 otevřených údajů s tagem | 29 |
 
 ## Rozhodnutí, která z rešerší vzešla
 
 - **Kreslení** (revize 2026-09-18): jeden JSON model, N rendererů. Rychlé 2D schéma, Sweet Home 3D (generovaný `.sh3d`) a Blender/Cycles vizualizace se všechny odvozují z JSON. IFC je odvozený výstup pro předání a kontrolu IfcTester/IDS. Generátor obrázků (ControlNet) jen na náladu, nikdy jako výkres. Rozhodnutí: AIArchitect `docs/decisions/0001-one-model-n-renderers.md`. Odůvodnění: [[../ArchitekturaNastroje/Index]], strop kvality LLM: [[../ArchitekturaNastroje/StropKvalityLLM]].
 - **Cena**: propočet podle cenových ukazatelů RTS (Kč/m³ obestavěného prostoru dle ČSN 73 4055), výstup jako rozpětí. Postup: [[../CenovaMetodikaStaveb/PostupOdhadu]].
 - **Poměr A/V** (2026-09-21): A/V se ve studii uvádí jako **srovnání hmotových variant**, ne jako průkaz energetické náročnosti — ČSN 73 0540-2 (8/2025) požadavek na Uem zrušila a vyhl. č. 264/2020 Sb. žádnou mez A/V nestanoví. Pásma A/V pro RD existují ve dvou nezávislých výukových pramenech, ale vzájemně si odporují a e-genius měří `V` jako obestavěný prostor — slouží proto jen jako kontrola řádu, ne jako hodnocení ([[../HmotoveReseniRD/PomerAV/TypickaPasmaAV]]). Vedle A/V se počítá RC (vůči krychli stejného objemu), protože A/V klesá i jen s velikostí domu. Ve vyhl. č. 264/2020 Sb. A/V nevystupuje vůbec. Nástroj: AIArchitect `tools/av/av.py`. Podklad: [[../HmotoveReseniRD/PomerAV/Index]].
+- **Dispoziční varianty** (2026-09-23): čtyři pravidla, která mění dosavadní postup fáze B4.
+  (1) **Nejmenší plochy místností od 1. 7. 2026 nestanoví nic** — vyhláška je nikdy neměla a revize
+  **ČSN 73 4301** (červen 2026) je zrušila včetně 12 m² na dvoulůžkovou ložnici; 8 m² je *definice*
+  obytného prostoru (§ 2 písm. b), ne požadavek. Velikost se prokazuje **zaříditelností** podle
+  ČSN 73 4305, jinak programem klienta. Hodnota 16 m² je rodinný standard nové ČSN, ne předpis.
+  (2) **Pro RD nepředepisuje vyhláška žádný rozměr schodiště ani šířku chodby** — § 31 žádá jedno
+  hlavní schodiště na podlaží a stejné stupně v rameni, § 39 odst. 3 dává 1,2 m chodbě *bytového*
+  domu a odst. 2 rodinné domy z přepravy předmětů výslovně vyjímá. Číslo 900 mm je z vyhl.
+  268/2009 Sb. Geometrie je z ČSN 73 4130, jejíž splnění je podle § 94 presumpce souladu.
+  (3) **Poměr okna 1 : 10 není průkaz denního osvětlení** — požadavek je v § 13 písm. l) zák. č.
+  283/2021 Sb. a měří se činitelem denní osvětlenosti (ČSN 73 0580-2: ≥ 0,7 % ve dvou bodech
+  v polovině hloubky, nejdále 3 m od okna). Při stejné ploše okna rozhoduje jeho **šířka**.
+  (4) **Hygienický požadavek na byt je jedna věta** — příloha č. 3 bod 1: 1 záchodová mísa
+  a 1 koupelna. Nástroj: AIArchitect `tools/dispozice/dispozice.py`.
+  Podklad: [[../DispozicniVarianty/Index]].
 - **Osazení na pozemku** (2026-09-22): pět pravidel, která mění dosavadní postup fáze B3.
   (1) Dvoumetrový odstup **neplatí k hranici veřejného prostranství** (§ 11 odst. 2 in fine) —
   směrem do ulice rozhoduje **stavební čára** podle § 11 odst. 1, a ta platí i bez územního plánu.
@@ -69,6 +86,18 @@ Konvence psaní: [[Conventions]] · Historie rešerší: [[Log]]
 - ~~Doslovný text § 11 odst. 3–7 a § 20 vyhl. 146/2024 Sb.~~ — **získán 2026-09-22** z úplného znění e-Sbírky (znění účinné od 1. 7. 2026, konsolidované — text odkazuje na vyhl. č. 43/2025 Sb. a nař. vl. č. 162/2025 Sb.). Doslovné citace jsou v [[../OsazeniNaPozemku/PolohaAStavebniCara]] a [[../OsazeniNaPozemku/OsvetleniAProsluneni]]. **Otevřená zůstává jen příloha č. 4** — je to grafika a z textového exportu registru ji vytáhnout nelze.
 - Obsah nového vydání ČSN 73 4301 (6/2026) — placená norma, nezískána. Do té doby se z ní nesmí citovat žádná hodnota ([[../Legislativa/NormyCSN]]).
 - **Požární bezpečnost RD** — zpracováno ([[../Legislativa/PozarniBezpecnostRD/Index]]). Otevřené zbývají dva body: zda po rekodifikaci stále platí hranice 200 m² zastavěné plochy RD pro státní požární dozor (opora byla v zrušeném § 104 odst. 1 písm. a) zák. č. 183/2006 Sb.) a rozpor 650 m² (TP 1.7 ČKAIT) vs. 600 m² (§ 15 odst. 2 vyhl. č. 23/2008 Sb.) u přístřešků. Do rozhodnutí platí nižší, vyhláškou daná hodnota. *(Doplněno 2026-09-22: hranice 200 m² se objevila i v odborném článku k sjezdům, tedy podruhé a nezávisle — ale ani jeden z obou výskytů není právní předpis, takže bod zůstává otevřený.)*
+- **Které vydání ČSN 73 4130 platí** — Strand uvádí 2024, karta TZB-info a přednáška ČVUT
+  2010-03. Ve studii se cituje bez roku ([[../DispozicniVarianty/Schodiste]]).
+- **Které normy jsou pro § 31 určeny ve Věstníku ÚNMZ** a co obsahuje **příloha č. 14** vyhlášky
+  (odchylky geometrických parametrů) — příloha je grafická, z textového exportu registru ji
+  vytáhnout nelze. Je to stejná překážka jako u přílohy č. 4 v B3.
+- **Rozsah vydané ČSN 73 4301 (2026)** — popis revize jmenuje bytové domy, obytné části jiných
+  budov, nástavby a *hromadnou* výstavbu individuálního bydlení; jednotlivý RD na míru v předmětu
+  normy nefiguruje. Ověřit na vydaném znění ([[../DispozicniVarianty/PlochyAMinimalniRozmery]]).
+- **Rok zrušené edice ČSN 73 4301** — týž článek Z+i mluví v prose o roku 2004 a v citaci Věstníku
+  ÚNMZ 6/2026 o červnu 2024.
+- **Sazba DPH u RD do 350 m² podlahové plochy** — hranice doložena (ČKAIT A 3.20), procento
+  v dohledaném zdroji je zastaralé.
 - **Sklon sjezdu a vyrovnávací rampy do garáže** — nedoloženo. Indicie ČSN 73 6057 (17 %) je
   z rešeršního souhrnu, ne z normy ani technického listu. Do té doby se ve studii žádné procento
   netvrdí ([[../OsazeniNaPozemku/ParkovaniAVjezd]]).
