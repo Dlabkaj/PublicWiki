@@ -20,6 +20,7 @@ Konvence psaní: [[Conventions]] · Historie rešerší: [[Log]]
 | Živnost, odpovědnost, licence, GDPR | [[../ZivnostOdpovednostCR/Index]] | D (licence pro projektanta), právní doložky |
 | **Osazení domu na pozemku** | [[../OsazeniNaPozemku/Index]] | **B3** |
 | **Dispoziční varianty** | [[../DispozicniVarianty/Index]] | **B4** |
+| **Kontrola varianty** | [[../KontrolaVarianty/Index]] | **B5** |
 | Sjezd a příjezdová cesta | [[../SjezdPrijezdovaCesta/Index]] | A2, B3 |
 | Zasíťování pozemku | [[../ZasitovaniPozemku/Index]] | A2, B3 |
 | Podklady k pozemku a postupy řízení | [[../ZasitovaniPozemku/PodkladyPozemku/Index]] | A2, B1 |
@@ -46,12 +47,26 @@ Konvence psaní: [[Conventions]] · Historie rešerší: [[Log]]
 | Poměr A/V a porovnání variant | zpracováno a zrevidováno 2026-09-21, 1 blokující rozpor | 7 |
 | Osazení na pozemku — doprava, přípojky a vsak, poloha a proslunění | zpracováno a zrevidováno 2026-09-22, 0 nedoložených údajů | 24 |
 | Dispozice — plochy, zónování, komunikace a schodiště, jádra a okna | zpracováno a zrevidováno 2026-09-23, 12 otevřených údajů s tagem | 29 |
+| Kontrola varianty — požární bezpečnost, konstrukce, přístupnost a výjimky | zpracováno 2026-09-23; požární úloha zůstává STOP_NEEDS_WORK, protože zbylé tagy uzavřou jen placené normy | 11 |
 
 ## Rozhodnutí, která z rešerší vzešla
 
 - **Kreslení** (revize 2026-09-18): jeden JSON model, N rendererů. Rychlé 2D schéma, Sweet Home 3D (generovaný `.sh3d`) a Blender/Cycles vizualizace se všechny odvozují z JSON. IFC je odvozený výstup pro předání a kontrolu IfcTester/IDS. Generátor obrázků (ControlNet) jen na náladu, nikdy jako výkres. Rozhodnutí: AIArchitect `docs/decisions/0001-one-model-n-renderers.md`. Odůvodnění: [[../ArchitekturaNastroje/Index]], strop kvality LLM: [[../ArchitekturaNastroje/StropKvalityLLM]].
 - **Cena**: propočet podle cenových ukazatelů RTS (Kč/m³ obestavěného prostoru dle ČSN 73 4055), výstup jako rozpětí. Postup: [[../CenovaMetodikaStaveb/PostupOdhadu]].
 - **Poměr A/V** (2026-09-21): A/V se ve studii uvádí jako **srovnání hmotových variant**, ne jako průkaz energetické náročnosti — ČSN 73 0540-2 (8/2025) požadavek na Uem zrušila a vyhl. č. 264/2020 Sb. žádnou mez A/V nestanoví. Pásma A/V pro RD existují ve dvou nezávislých výukových pramenech, ale vzájemně si odporují a e-genius měří `V` jako obestavěný prostor — slouží proto jen jako kontrola řádu, ne jako hodnocení ([[../HmotoveReseniRD/PomerAV/TypickaPasmaAV]]). Vedle A/V se počítá RC (vůči krychli stejného objemu), protože A/V klesá i jen s velikostí domu. Ve vyhl. č. 264/2020 Sb. A/V nevystupuje vůbec. Nástroj: AIArchitect `tools/av/av.py`. Podklad: [[../HmotoveReseniRD/PomerAV/Index]].
+- **Kontrola varianty** (2026-09-23): tři pravidla, která mění dosavadní postup fáze B5.
+  (1) **Seznam prominutelných požadavků je uzavřený.** § 95 vyhlášky jmenuje mj. počet stání
+  (§ 7 odst. 1 a 3), **odstup 2 m a stavební čáru** (§ 11 odst. 1, 2 a 4) a podjezdnou výšku garáže
+  (§ 38 odst. 3). **Světlou výšku 2,5 m (§ 38 odst. 1), denní osvětlení a zastínění (§ 20), šířky
+  (§ 39), schodiště (§ 31) ani „1 záchod a 1 koupelna" prominout nelze** — a výjimku povoluje
+  stavební úřad za podmínek § 138 odst. 1 SZ, ne projektant. (2) **Vyhláška č. 23/2008 Sb. platí
+  i po novém stavebním zákoně** (znění od 1. 1. 2025) a pro RD odkazuje na ČSN 73 0833 jako na
+  určenou normu: běžný RD je **jeden požární úsek včetně garáže** (plocha úseku do 600 m²), musí
+  mít **autonomní detekci a signalizaci**, a **dřevostavba je jiný režim** (§ 15 odst. 4).
+  (3) **Od 1. 1. 2026 nesmí PBŘ u staveb kategorie I a II zpracovat projektant pozemních staveb** —
+  musí to být autorizovaná osoba pro PBS. Navíc: **běžný RD nemusí splnit požadavky na přístupnost**
+  (§ 29 odst. 1 a 3). Nástroj: AIArchitect `tools/verdikt/verdikt.py`.
+  Podklad: [[../KontrolaVarianty/Index]].
 - **Dispoziční varianty** (2026-09-23): čtyři pravidla, která mění dosavadní postup fáze B4.
   (1) **Nejmenší plochy místností od 1. 7. 2026 nestanoví nic** — vyhláška je nikdy neměla a revize
   **ČSN 73 4301** (červen 2026) je zrušila včetně 12 m² na dvoulůžkovou ložnici; 8 m² je *definice*
@@ -86,6 +101,11 @@ Konvence psaní: [[Conventions]] · Historie rešerší: [[Log]]
 - ~~Doslovný text § 11 odst. 3–7 a § 20 vyhl. 146/2024 Sb.~~ — **získán 2026-09-22** z úplného znění e-Sbírky (znění účinné od 1. 7. 2026, konsolidované — text odkazuje na vyhl. č. 43/2025 Sb. a nař. vl. č. 162/2025 Sb.). Doslovné citace jsou v [[../OsazeniNaPozemku/PolohaAStavebniCara]] a [[../OsazeniNaPozemku/OsvetleniAProsluneni]]. **Otevřená zůstává jen příloha č. 4** — je to grafika a z textového exportu registru ji vytáhnout nelze.
 - Obsah nového vydání ČSN 73 4301 (6/2026) — placená norma, nezískána. Do té doby se z ní nesmí citovat žádná hodnota ([[../Legislativa/NormyCSN]]).
 - **Požární bezpečnost RD** — zpracováno ([[../Legislativa/PozarniBezpecnostRD/Index]]). Otevřené zbývají dva body: zda po rekodifikaci stále platí hranice 200 m² zastavěné plochy RD pro státní požární dozor (opora byla v zrušeném § 104 odst. 1 písm. a) zák. č. 183/2006 Sb.) a rozpor 650 m² (TP 1.7 ČKAIT) vs. 600 m² (§ 15 odst. 2 vyhl. č. 23/2008 Sb.) u přístřešků. Do rozhodnutí platí nižší, vyhláškou daná hodnota. *(Doplněno 2026-09-22: hranice 200 m² se objevila i v odborném článku k sjezdům, tedy podruhé a nezávisle — ale ani jeden z obou výskytů není právní předpis, takže bod zůstává otevřený.)*
+- **Doslovná dikce povinnosti PBŘ u rodinného domu** — doloženo jen články ČKAIT a ESTAV
+  ([[../KontrolaVarianty/PozarniBezpecnostRD]]).
+- **Odstupové vzdálenosti podle ČSN 73 0833 / 73 0802** a **ČSN 73 4001** — placené normy; hodnoty
+  se do studie nepřebírají. Proto zůstává úloha `pozarni-bezpecnost-rd` ve stavu STOP_NEEDS_WORK:
+  její zbylé tagy nejde uzavřít z veřejných zdrojů.
 - **Které vydání ČSN 73 4130 platí** — Strand uvádí 2024, karta TZB-info a přednáška ČVUT
   2010-03. Ve studii se cituje bez roku ([[../DispozicniVarianty/Schodiste]]).
 - **Které normy jsou pro § 31 určeny ve Věstníku ÚNMZ** a co obsahuje **příloha č. 14** vyhlášky

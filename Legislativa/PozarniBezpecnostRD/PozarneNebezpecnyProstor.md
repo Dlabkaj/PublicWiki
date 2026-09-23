@@ -2,6 +2,9 @@
 
 Co je PNP, kdo a jak ho stanovuje, a zda smí zasahovat na sousední pozemek.
 
+
+> **Ověřeno 2026-09-23:** vyhláška č. 23/2008 Sb. **platí i po novém stavebním zákoně** — e-Sbírka vydává její úplné znění účinné od **1. 1. 2025** a vyhláška č. 146/2024 Sb. ji nenahradila. Tagy `*(law-verify)*` níže, které se ptaly na aktuálnost samotné vyhlášky, jsou tím zodpovězené; zůstávají ty, které se ptají na obsah **placených norem** (ČSN 73 0802, 73 0833) a na **interní dokumenty HZS**, protože ty se z registru zjistit nedají. Doslovné znění § 4, § 10, § 11, § 15 a přílohy č. 3 je na stránce [[../../KontrolaVarianty/PozarniBezpecnostRD]].
+
 Ověřeno: 2026-09-15
 
 ## Zdroj a jeho stáří — důležité upozornění

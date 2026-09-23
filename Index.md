@@ -267,6 +267,7 @@ Update this file whenever a page is added or removed.
 - [[HmotoveReseniRD/Index]] — Landing page for Podlažnost a proporce hmoty rodinného domu. Sub-pages:
 - [[HmotoveReseniRD/PomerAV/Index]] — Landing page for Poměr A/V a porovnávání hmotových variant RD. Sub-pages:
 - [[HmotoveReseniRD/StrechaATeren/Index]] — Landing page for Střecha a vztah hmoty RD k terénu. Sub-pages:
+- [[KontrolaVarianty/Index]] — Podklad pro fázi B5: verdikt pro každou dispoziční variantu z B4 — projde / projde s pojmenovanou výjimkou /…
 - [[Legislativa/Index]] — Právní rámec, ve kterém vzniká architektonická studie rodinného domu.
 - [[Legislativa/PozarniBezpecnostRD/Index]] — Landing page for Pozarne nebezpecny prostor a pozarni odstupy rodinneho domu. Sub-pages:
 - [[Legislativa/StavebniObalka/Index]] — Landing page for Stavebni obalka pozemku (B1) - ceska legislativa a normy pro odvozeni zastavitelneho polygonu.

@@ -2,6 +2,9 @@
 
 Které předpisy a normy se vztahují na požárně nebezpečný prostor (PNP) a odstupovou vzdálenost u rodinného domu, a která ustanovení je nesou.
 
+
+> **Ověřeno 2026-09-23:** vyhláška č. 23/2008 Sb. **platí i po novém stavebním zákoně** — e-Sbírka vydává její úplné znění účinné od **1. 1. 2025** a vyhláška č. 146/2024 Sb. ji nenahradila. Tagy `*(law-verify)*` níže, které se ptaly na aktuálnost samotné vyhlášky, jsou tím zodpovězené; zůstávají ty, které se ptají na obsah **placených norem** (ČSN 73 0802, 73 0833) a na **interní dokumenty HZS**, protože ty se z registru zjistit nedají. Doslovné znění § 4, § 10, § 11, § 15 a přílohy č. 3 je na stránce [[../../KontrolaVarianty/PozarniBezpecnostRD]].
+
 Ověřeno: 2026-09-15
 
 ## Vyhláška č. 23/2008 Sb. — o technických podmínkách požární ochrany staveb
@@ -36,7 +39,7 @@ Příloha č. 1 část 1 (výňatek — první část seznamu, potvrzeno doslovn
 
 *(Poznámka: toto je pouze seznam, které normy vyhláška odkazuje ke kterým paragrafům — číselné hodnoty z těchto norem se sem nepřebírají, viz pravidlo o placených normách v Conventions.)*
 
-Příloha č. 3 (požadavky na přístupové komunikace a zásah požární techniky) bod 5: stavba a nástupní plocha pro požární techniku se umísťuje mimo ochranné pásmo nadzemního vedení vysokého napětí bez izolace *(needs law verification — doslovné znění tohoto bodu výňatek z e-Sbírky nepokrývá, údaj je jen z osnovy)*.
+Příloha č. 3 (požadavky na přístupové komunikace a zásah požární techniky) bod 5: stavba a nástupní plocha pro požární techniku se umísťuje mimo ochranné pásmo nadzemního vedení vysokého napětí bez izolace — doslovně: „Stavba a nástupní plocha pro požární techniku se umisťuje a navrhuje mimo ochranné pásmo nadzemního vedení vysokého napětí s vodiči bez izolace takovým způsobem, který umožňuje příjezd a provedení zásahu mimo ochranné pásmo.“ *(ověřeno 2026-09-23 z úplného znění e-Sbírky, účinného od 1. 1. 2025)*. Příloha č. 3 dále v bodě 2 žádá u vjezdu na obestavěný nebo ohrazený pozemek minimální šířku 3,5 m a výšku 4,1 m a v bodě 3 smyčkový objezd nebo plochu pro otáčení u jediné neprůjezdné jednopruhové komunikace delší než 50 m..
 
 Pozn.: vyhl. č. 146/2024 Sb. (znění od 2026-07-01) požárně nebezpečný prostor ani odstupové vzdálenosti sama neupravuje — jen odkazuje na „vyhlášku upravující technické podmínky požární ochrany staveb", tj. na vyhl. 23/2008 Sb. výše. Závazný limit pro PNP zasahující na sousední pozemek proto neplyne z požární vyhlášky, ale z **§ 11 odst. 1 vyhl. č. 146/2024 Sb.** — viz sekci o této vyhlášce níže.
 

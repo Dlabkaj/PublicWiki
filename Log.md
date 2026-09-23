@@ -348,3 +348,39 @@ Append-only record of what NERD did to this wiki, newest last.
 - pages: KomunikacniPlochyAZadveri, Schodiste
 - chars: 0
 - run: 20260923T045707Z-c42f
+
+## [2026-09-23] ingest | Pozarne nebezpecny prostor a pozarni odstupy rodinneho domu
+
+- pages: KontrolaVarianty/PozarniBezpecnostRD, Legislativa/PozarniBezpecnostRD/Predpisy
+- chars: 0
+- run: 20260923T062110Z-7621
+
+## [2026-09-23] ingest | Konstrukcni proveditelnost dispozice RD
+
+- pages: KontrolaVarianty/KonstrukcniProveditelnost
+- chars: 0
+- run: 20260923T062114Z-5cc5
+
+## [2026-09-23] ingest | Bezbarierovost RD a vyjimky z pozadavku na vystavbu
+
+- pages: KontrolaVarianty/PristupnostAVyjimky
+- chars: 0
+- run: 20260923T062115Z-769f
+
+## [2026-09-23] review | Pozarne nebezpecny prostor a pozarni odstupy rodinneho domu
+
+- pages: KontrolaVarianty/PozarniBezpecnostRD, Legislativa/PozarniBezpecnostRD/Predpisy
+- chars: 0
+- run: 20260923T062116Z-e255
+
+## [2026-09-23] review | Konstrukcni proveditelnost dispozice RD
+
+- pages: KontrolaVarianty/KonstrukcniProveditelnost
+- chars: 0
+- run: 20260923T062117Z-d285
+
+## [2026-09-23] review | Bezbarierovost RD a vyjimky z pozadavku na vystavbu
+
+- pages: KontrolaVarianty/PristupnostAVyjimky
+- chars: 0
+- run: 20260923T062117Z-cc4f
