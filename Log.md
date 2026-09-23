@@ -102,3 +102,201 @@ Append-only record of what NERD did to this wiki, newest last.
 
 - pages: ArchitekturaNastroje/Index.md (revize pipeline, vyřešena otázka přímé generace .sh3d), AIArchitect/Index.md (rozhodnutí Kreslení)
 - note: IFC přesunuto z autorské vrstvy do výstupní; rozhodnutí v AIArchitect docs/decisions/0001
+
+## [2026-09-20] ingest | Podlažnost a proporce hmoty rodinného domu
+
+- pages: HmotoveReseniRD/PodlaznostATepelneZtraty.md, HmotoveReseniRD/TvarHmotyADoporuceni.md
+- chars: 5578
+- run: 20260920T183759Z-567d
+
+## [2026-09-20] ingest | Podlažnost a proporce hmoty rodinného domu
+
+- pages: HmotoveReseniRD/BungalovVsPatrovyDum.md
+- chars: 3754
+- run: 20260920T184006Z-41a9
+
+## [2026-09-20] ingest | Podlažnost a proporce hmoty rodinného domu
+
+- pages: HmotoveReseniRD/BungalovVsPatrovyDum.md
+- chars: 1490
+- run: 20260920T184111Z-9a5b
+
+## [2026-09-20] ingest | Podlažnost a proporce hmoty rodinného domu
+
+- pages: HmotoveReseniRD/BungalovVsPatrovyDum.md
+- chars: 5083
+- run: 20260920T184214Z-3681
+
+## [2026-09-20] ingest | Podlažnost a proporce hmoty rodinného domu
+
+- pages: HmotoveReseniRD/NakladyNaHrubouStavbu.md, HmotoveReseniRD/VikyreArkyreTvarovaSlozitost.md
+- chars: 5205
+- run: 20260920T184353Z-533a
+
+## [2026-09-20] ingest | Podlažnost a proporce hmoty rodinného domu
+
+- pages: HmotoveReseniRD/BungalovVsPatrovyDum.md
+- chars: 1151
+- run: 20260920T184539Z-1db9
+
+## [2026-09-20] ingest | Střecha a vztah hmoty RD k terénu
+
+- pages: HmotoveReseniRD/StrechaATeren/OrientaceHrebeneAFotovoltaika.md, HmotoveReseniRD/StrechaATeren/OsazeniDomuKTerenu.md, HmotoveReseniRD/StrechaATeren/PodsklepeniVsNepodsklepeni.md, HmotoveReseniRD/StrechaATeren/SvazityPozemekOperneZdiCena.md, HmotoveReseniRD/StrechaATeren/TvarASklonStrechy.md, HmotoveReseniRD/StrechaATeren/VykopoveANasypovePrace.md
+- chars: 0
+- run: 20260920T184724Z-5e75
+
+## [2026-09-20] ingest | Poměr A/V a porovnávání hmotových variant RD
+
+- pages: HmotoveReseniRD/PomerAV/Definice.md, HmotoveReseniRD/PomerAV/ObestavenyProstor.md, HmotoveReseniRD/PomerAV/PorovnaniVariant.md, HmotoveReseniRD/PomerAV/TypickaPasmaAV.md, HmotoveReseniRD/PomerAV/VypocetPlochAObjemu.md
+- chars: 20845
+- run: 20260920T185659Z-d32c
+
+## [2026-09-20] review | Poměr A/V a porovnávání hmotových variant RD
+
+- pages: HmotoveReseniRD/PomerAV/Definice.md, LAST_VERIFY=2026-09-20T19:20:00Z
+- chars: 0
+- run: 20260920T190500Z-4d30
+
+## [2026-09-20] review | Poměr A/V a porovnávání hmotových variant RD
+
+- pages: HmotoveReseniRD/PomerAV/VypocetPlochAObjemu.md, LAST_VERIFY=2026-09-20T19:25:00Z
+- chars: 0
+- run: 20260920T191041Z-b466
+
+## [2026-09-20] review | Poměr A/V a porovnávání hmotových variant RD
+
+- pages: HmotoveReseniRD/PomerAV/ObestavenyProstor.md, LAST_VERIFY=2026-09-20T19:35:00Z
+- chars: 0
+- run: 20260920T191216Z-d33f
+
+## [2026-09-20] review | Poměr A/V a porovnávání hmotových variant RD
+
+- pages: HmotoveReseniRD/PomerAV/TypickaPasmaAV.md, LAST_VERIFY=2026-09-20T19:42:00Z
+- chars: 0
+- run: 20260920T191502Z-34cf
+
+## [2026-09-20] review | Poměr A/V a porovnávání hmotových variant RD
+
+- pages: HmotoveReseniRD/PomerAV/PorovnaniVariant.md, LAST_VERIFY=2026-09-20T19:50:00Z
+- chars: 0
+- run: 20260920T191632Z-347b
+
+## [2026-09-20] review | Střecha a vztah hmoty RD k terénu
+
+- pages: HmotoveReseniRD/StrechaATeren/OsazeniDomuKTerenu.md, LAST_VERIFY=2026-09-20T19:30:00Z
+- chars: 0
+- run: 20260920T191937Z-3e5d
+
+## [2026-09-20] review | Střecha a vztah hmoty RD k terénu
+
+- pages: HmotoveReseniRD/StrechaATeren/TvarASklonStrechy.md, LAST_VERIFY=2026-09-20T19:40:00Z
+- chars: 0
+- run: 20260920T192225Z-760e
+
+## [2026-09-20] review | Střecha a vztah hmoty RD k terénu
+
+- pages: HmotoveReseniRD/StrechaATeren/PodsklepeniVsNepodsklepeni.md, LAST_VERIFY=2026-09-20T19:50:00Z
+- chars: 0
+- run: 20260920T192529Z-5a1a
+
+## [2026-09-20] review | Střecha a vztah hmoty RD k terénu
+
+- pages: HmotoveReseniRD/StrechaATeren/SvazityPozemekOperneZdiCena.md, LAST_VERIFY=2026-09-20T20:00:00Z
+- chars: 0
+- run: 20260920T192954Z-8771
+
+## [2026-09-20] review | Střecha a vztah hmoty RD k terénu
+
+- pages: HmotoveReseniRD/StrechaATeren/VykopoveANasypovePrace.md, LAST_VERIFY=2026-09-20T20:10:00Z
+- chars: 0
+- run: 20260920T193305Z-a97e
+
+## [2026-09-20] review | Střecha a vztah hmoty RD k terénu
+
+- pages: HmotoveReseniRD/StrechaATeren/OrientaceHrebeneAFotovoltaika.md, LAST_VERIFY=2026-09-20T20:20:00Z
+- chars: 0
+- run: 20260920T193544Z-4366
+
+## [2026-09-20] review | Podlažnost a proporce hmoty rodinného domu
+
+- pages: HmotoveReseniRD/BungalovVsPatrovyDum.md, LAST_VERIFY=2026-09-20T19:58:00Z
+- chars: 0
+- run: 20260920T193946Z-4792
+
+## [2026-09-20] review | Podlažnost a proporce hmoty rodinného domu
+
+- pages: HmotoveReseniRD/PodlaznostATepelneZtraty.md, LAST_VERIFY=2026-09-20T20:05:00Z
+- chars: 0
+- run: 20260920T194839Z-70dc
+
+## [2026-09-20] review | Podlažnost a proporce hmoty rodinného domu
+
+- pages: HmotoveReseniRD/NakladyNaHrubouStavbu.md, LAST_VERIFY=2026-09-20T20:20:00Z
+- chars: 0
+- run: 20260920T195103Z-ac65
+
+## [2026-09-21] review | Podlažnost a proporce hmoty rodinného domu
+
+- pages: HmotoveReseniRD/BungalovVsPatrovyDum.md, LAST_VERIFY=2026-09-21T08:10:00Z
+- chars: 0
+- run: 20260921T075709Z-15ea
+
+## [2026-09-21] review | Podlažnost a proporce hmoty rodinného domu
+
+- pages: HmotoveReseniRD/PodlaznostATepelneZtraty.md, LAST_VERIFY=2026-09-21T08:25:00Z
+- chars: 0
+- run: 20260921T080245Z-72d1
+
+## [2026-09-21] review | Podlažnost a proporce hmoty rodinného domu
+
+- pages: HmotoveReseniRD/NakladyNaHrubouStavbu.md, LAST_VERIFY=2026-09-21T08:40:00Z
+- chars: 0
+- run: 20260921T080616Z-6c24
+
+## [2026-09-21] review | Podlažnost a proporce hmoty rodinného domu
+
+- pages: HmotoveReseniRD/VikyreArkyreTvarovaSlozitost.md, LAST_VERIFY=2026-09-21T08:55:00Z
+- chars: 0
+- run: 20260921T081054Z-4781
+
+## [2026-09-21] review | Podlažnost a proporce hmoty rodinného domu
+
+- pages: HmotoveReseniRD/TvarHmotyADoporuceni.md, LAST_VERIFY=2026-09-21T09:10:00Z
+- chars: 0
+- run: 20260921T081359Z-47da
+
+## [2026-09-21] manual | Dořešení otevřených bodů fáze B2 (mimo NERD)
+
+- pages: HmotoveReseniRD/PomerAV/Definice.md, HmotoveReseniRD/PomerAV/TypickaPasmaAV.md,
+  HmotoveReseniRD/PomerAV/PorovnaniVariant.md, HmotoveReseniRD/BungalovVsPatrovyDum.md,
+  HmotoveReseniRD/StrechaATeren/TvarASklonStrechy.md,
+  HmotoveReseniRD/StrechaATeren/PodsklepeniVsNepodsklepeni.md,
+  HmotoveReseniRD/StrechaATeren/SvazityPozemekOperneZdiCena.md,
+  HmotoveReseniRD/StrechaATeren/VykopoveANasypovePrace.md, AIArchitect/Index.md
+- sources: +5 (e-Sbírka úplné znění 264/2020 od 1. 9. 2024; GrAT/e-genius.at; Křeček, FA VUT Brno;
+  krytiny-strechy.cz ×2; Juodagalvienė et al. 2017, Eng. Struct. Technol. 9(3), CC BY)
+- run: bez run-id — ruční editace na pokyn uživatele, ne fáze NERD
+- co: doplněna pásma A/V (dva nezávislé prameny, vzájemně si odporují a měří obestavěný prostor);
+  Uem ve vyhl. č. 264/2020 Sb. ověřeno v úplném textu (žádné Uem,N, A/V se ve vyhlášce nevyskytuje);
+  bezpečné sklony tašek potvrzeny, spor 7° vs. 3° u falcované krytiny vyřešen přes ČSN 73 3610;
+  dohledána publikovaná sada porovnávacích kritérií (EDAS + SWARA). Odstraněny rozporné cenové sazby
+  za výkop (5 000 vs. 450 Kč/m³) a za opěrnou zeď (10–15 tis. Kč/bm bez výšky) a čísla ze strojově
+  generovaného bloku na modrastrecha.cz.
+
+## [2026-09-22] review | Vjezd, parkovani a otaceni auta na pozemku RD - rozhledove pomery a pristup hasicu
+
+- pages: OsazeniNaPozemku/ParkovaniAVjezd.md, OsazeniNaPozemku/PristupPozarnichVozidel.md, OsazeniNaPozemku/RozhledovePomery.md
+- chars: 0
+- run: 20260922T172720Z-21d4
+
+## [2026-09-22] review | Trasy pripojek, vsakovani a retence srazkove vody na pozemku RD
+
+- pages: OsazeniNaPozemku/SrazkovaVodaVsakRetence.md, OsazeniNaPozemku/TrasyPripojek.md
+- chars: 0
+- run: 20260922T172721Z-1336
+
+## [2026-09-22] review | Poloha a orientace domu na pozemku, prosluneni obytnych mistnosti, terasa a vedlejsi objekty
+
+- pages: OsazeniNaPozemku/OsvetleniAProsluneni.md, OsazeniNaPozemku/PolohaAStavebniCara.md, OsazeniNaPozemku/TerasaVedlejsiObjektyOploceni.md
+- chars: 0
+- run: 20260922T172721Z-a701
