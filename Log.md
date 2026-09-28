@@ -396,3 +396,117 @@ Append-only record of what NERD did to this wiki, newest last.
 - pages: CenovaMetodikaStaveb/DphUStavbyProBydleni
 - chars: 0
 - run: 20260923T095313Z-ab78
+
+## [2026-09-27] ingest | Navrh RD - best practices, triky a tipy (navrh-rd-knihy)
+
+- pages: NavrhRD/CenaNavrhu.md, NavrhRD/Dispozice.md, NavrhRD/ObalkaAEnergetika.md, NavrhRD/OrientaceADenniSvetlo.md, NavrhRD/SlamenyDum.md
+- chars: 30127
+- run: 20260927T143457Z-1053
+
+## [2026-09-27] ingest | Navrh RD - best practices, triky a tipy (navrh-rd-web)
+
+- pages: NavrhRD/CasteChybyNavrhu.md, NavrhRD/CenaNavrhu.md, NavrhRD/Dispozice.md, NavrhRD/HmotaFasadaStrecha.md, NavrhRD/ObalkaAEnergetika.md, NavrhRD/OrientaceADenniSvetlo.md, NavrhRD/RozmeryAProporceMistnosti.md, NavrhRD/SlamenyDum.md, NavrhRD/TechnickeZazemi.md
+- chars: 52666
+- run: 20260927T143446Z-ddd5
+
+## [2026-09-27] ingest | Navrh RD - best practices, triky a tipy (navrh-rd-web)
+
+- pages: NavrhRD/SlamenyDum.md
+- chars: 18393
+- run: 20260927T144920Z-eb6d
+
+## [2026-09-27] ingest | Navrh RD - best practices, triky a tipy (navrh-rd-knihy)
+
+- pages: NavrhRD/Dispozice.md, NavrhRD/HmotaFasadaStrecha.md, NavrhRD/ObalkaAEnergetika.md, NavrhRD/OrientaceADenniSvetlo.md, NavrhRD/RozmeryAProporceMistnosti.md, NavrhRD/TechnickeZazemi.md
+- chars: 28399
+- run: 20260927T145214Z-1297
+
+## [2026-09-27] ingest | Navrh RD - best practices, triky a tipy (navrh-rd-knihy)
+
+- pages: NavrhRD/SlamenyDum.md
+- chars: 9478
+- run: 20260927T145808Z-44ac
+
+## [2026-09-27] ingest | Navrh RD - best practices, triky a tipy (navrh-rd-youtube)
+
+- pages: NavrhRD/Dispozice.md,NavrhRD/CasteChybyNavrhu.md,NavrhRD/Interier.md,NavrhRD/SlamenyDum.md,NavrhRD/RozmeryAProporceMistnosti.md,NavrhRD/OrientaceADenniSvetlo.md,NavrhRD/ObalkaAEnergetika.md,NavrhRD/HmotaFasadaStrecha.md,NavrhRD/CenaNavrhu.md,NavrhRD/TechnickeZazemi.md
+- chars: 226893
+- run: 20260927T153359Z-d70a
+
+## [2026-09-27] ingest | Navrh RD - best practices, triky a tipy (navrh-rd-youtube)
+
+- pages: NavrhRD/OrientaceADenniSvetlo.md,NavrhRD/Dispozice.md,NavrhRD/CenaNavrhu.md,NavrhRD/HmotaFasadaStrecha.md,NavrhRD/CasteChybyNavrhu.md,NavrhRD/Interier.md,NavrhRD/RozmeryAProporceMistnosti.md
+- chars: 52955
+- run: 20260927T182036Z-d6bd
+
+## [2026-09-27] ingest | Navrh RD - best practices, triky a tipy (navrh-rd-youtube)
+
+- pages: NavrhRD/Dispozice.md,NavrhRD/OrientaceADenniSvetlo.md,NavrhRD/TechnickeZazemi.md
+- chars: 2436
+- run: 20260927T184545Z-239a
+
+## [2026-09-27] review | Navrh RD - best practices, triky a tipy (navrh-rd-knihy)
+
+- pages: LAST_VERIFY=2026-09-27T19:10:00Z, NavrhRD/Dispozice.md
+- chars: 0
+- run: 20260927T184947Z-0b81
+
+## [2026-09-27] review | Navrh RD - best practices, triky a tipy (navrh-rd-knihy)
+
+- pages: NavrhRD/Schodiste.md
+- chars: 0
+- run: 20260927T185521Z-fc7c
+
+## [2026-09-27] review | Navrh RD - best practices, triky a tipy (navrh-rd-knihy)
+
+- pages: NavrhRD/TechnickeZazemi.md
+- chars: 0
+- run: 20260927T185556Z-7a39
+
+## [2026-09-27] review | Navrh RD - best practices, triky a tipy (navrh-rd-knihy)
+
+- pages: NavrhRD/SlamenyDum.md
+- chars: 0
+- run: 20260927T185821Z-816f
+
+## [2026-09-27] review | Navrh RD - best practices, triky a tipy (navrh-rd-knihy)
+
+- pages: NavrhRD/ObalkaAEnergetika.md
+- chars: 0
+- run: 20260927T190611Z-a7e5
+
+## [2026-09-27] review | Navrh RD - best practices, triky a tipy (navrh-rd-youtube)
+
+- pages: NavrhRD/Interier.md
+- chars: 0
+- run: 20260927T190929Z-4759
+
+## [2026-09-27] review | Navrh RD - best practices, triky a tipy (navrh-rd-youtube)
+
+- pages: NavrhRD/RozmeryAProporceMistnosti.md
+- chars: 0
+- run: 20260927T191159Z-61ff
+
+## [2026-09-27] review | Navrh RD - best practices, triky a tipy (navrh-rd-youtube)
+
+- pages: NavrhRD/CenaNavrhu.md
+- chars: 0
+- run: 20260927T191444Z-65ab
+
+## [2026-09-27] review | Navrh RD - best practices, triky a tipy (navrh-rd-web)
+
+- pages: NavrhRD/HmotaFasadaStrecha.md
+- chars: 0
+- run: 20260927T191801Z-43ca
+
+## [2026-09-27] review | Navrh RD - best practices, triky a tipy (navrh-rd-web)
+
+- pages: NavrhRD/OrientaceADenniSvetlo.md
+- chars: 0
+- run: 20260927T191924Z-3861
+
+## [2026-09-27] review | Navrh RD - best practices, triky a tipy (navrh-rd-web)
+
+- pages: NavrhRD/CasteChybyNavrhu.md
+- chars: 0
+- run: 20260927T192114Z-4728
