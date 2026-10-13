@@ -2,6 +2,14 @@
 
 Chronologicky, nejnovější nahoře.
 
+## 2026-10-12 — Trasy pohybu
+
+Nová stránka [[../DispozicniVarianty/TrasyPohybu]]. Spouštěč: varianty prošly kontrolou volného místa před nábytkem i dveřmi, ale klient do půdorysu dokreslil cesty chůze a ukázal úzké uličky mezi otevřeným křídlem a nábytkem a dvoje dveře otevírané proti sobě. Metoda „nakresli pravděpodobné trasy" (desire lines) a pravidla o křídle ke stěně jsou z Arcadium 3D (zahraniční blog, bez autora a data). Šířky 90 / 60 / 45 cm ze space-planning.md. Rozměry dveří a vzdálenost od rohu z ESTAV 2844 a Českých staveb. **Rozpor:** koupelna a WC ven (ESTAV, kvůli záchraně) × dovnitř (Arcadium, kvůli chodbě). Stránka uvádí obojí.
+
+## 2026-10-12 — Zaříditelnost a volná místa u nábytku
+
+Nová stránka [[../DispozicniVarianty/ZariditelnostAVolnaMista]]. Spouštěč: varianty dispozic prošly kontrolou ploch, ale nešly zařídit — postel ve zdi, dveře rovnou na postel, technická místnost 1,6 m široká. Hodnoty (postel 60 cm, skříň 80–100 cm, stůl 90 cm) jsou praxe, ne předpis; postel a skříň mají dva zdroje, stoly jeden. Nepodařilo se dohledat volně dostupný text ČSN 73 4305 ani přílohy vyhl. č. 398/2009 Sb. s manipulačními prostory — zůstává otevřené.
+
 ## 2026-08-30 — sloučení `LLM_Wiki` do veřejné wiki
 
 Složka `LLM_Wiki/` v repozitáři agenta byla samostatná wiki. Nahrazena klonem tohoto repozitáře (`PublicWiki`), obsah sloučen.

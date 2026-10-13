@@ -36,4 +36,6 @@ rozhodnutí. Fáze B4 tím pádem nemá co „zkontrolovat proti vyhlášce" —
 - [PlochyAMinimalniRozmery](PlochyAMinimalniRozmery.md) — Kolik musí mít místnost metrů — a odpověď, kterou nikdo nečeká: od 1. 7. 2026 to nestanoví nic. Ani vyhláška, ani…
 - [Schodiste](Schodiste.md) — Geometrie schodiště v rodinném domě. Hlavní zjištění je právní: vyhláška č. 146/2024 Sb.
 - [SvetleVyskyAPodchodneVysky](SvetleVyskyAPodchodneVysky.md) — Jediné rozměry, které vyhláška u obytných místností skutečně ukládá. Text je z e-Sbírky (úplné znění účinné od 1. 7.
+- [TrasyPohybu](TrasyPohybu.md) — Nakreslit pravděpodobné cesty lidí a projít je s otevřenými dveřmi; šířky tras a pravidla pro dveře.
+- [ZariditelnostAVolnaMista](ZariditelnostAVolnaMista.md) — Kolik volného místa musí zůstat před nábytkem a dveřmi; plocha místnosti zaříditelnost nezaručí.
 - [ZonovaniAOrientace](ZonovaniAOrientace.md) — Jak se dispozice dělí na zóny, co z toho je pravidlo a co jen zvyk, a která místnost patří na kterou světovou stranu.
