@@ -11,6 +11,8 @@ Landing page for **Navrh RD - best practices, triky a tipy (navrh-rd-knihy)**. S
 - [Interier](Interier.md) — Zásady rozmístění nábytku a uspořádání interiéru — cirkulace, zóny, symetrie, sightlines,
 - [ObalkaAEnergetika](ObalkaAEnergetika.md) — Zásady návrhu obálky budovy pro nízkoenergetický/pasivní standard: izolace, vzduchotěsnost,
 - [OrientaceADenniSvetlo](OrientaceADenniSvetlo.md) — Pravidla pro orientaci domu ke světovým stranám, umístění oken, přirozené větrání a
+- [PetZasadNavrhuDomu](PetZasadNavrhuDomu.md) — Zkušenostní doporučení online projektanta Lukáše (YouTube „5. zásad dokonalého návrhu domu“) vycházející ze zpětné…
+- [PsychologieInterieru](PsychologieInterieru.md) — Pravidla rozmístění nábytku, světla, akustiky a materiálů odvozená z psychologie vnímání prostoru.
 - [RozmeryAProporceMistnosti](RozmeryAProporceMistnosti.md) — Konkrétní rozměry a pravidla palce pro kuchyně, koupelny, ložnice, chodby a další prostory
 - [Schodiste](Schodiste.md) — Návrhová a rozměrová pravidla pro vnitřní schodiště rodinného domu.
 - [SlamenyDum](SlamenyDum.md) — Návrhová pravidla specifická pro stavby ze slaměných balíků (straw-bale).
