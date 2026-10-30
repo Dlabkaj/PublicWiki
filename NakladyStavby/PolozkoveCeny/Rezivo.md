@@ -205,6 +205,13 @@ Standardně dodáváno nevysušené; sušené na požadavek. Smrk (SM). *(unveri
 
 ---
 
+## Veřejné zakázky — BSH hranol, dřevěné lávky (registr smluv)
+
+- **Trutnov, hygienické zařízení (2025):** soupis obsahuje ÚRS položky 762952014 (hranol konstrukční BSH vrstvený lepený pohledový, m³; průvlak 100/180, 6,4 m), 762951004 (hranol stavební řezivo do 224 cm², dl. 6–8 m, m³), 766417511 / 766427112 (montáž podkladového roštu). **Jednotkové ceny jsou v kopii registru smluv začerněny (XXXXXX)** — cena Kč/m³ BSH z tohoto zdroje není, použitelný je jen kód pro oceňování. (source: https://smlouvy.gov.cz/smlouva/soubor/40867492/O2_2025_HR%20Stavby%20Trutnov_rozpozn%C3%A1no.pdf)
+- Dřevěná mostovka z měkkých hranolů 14 500 Kč/m³ (ÚRS 421951113, bez DPH, rok neuveden) a tlaková impregnace 2 500 Kč/m³ — viz [[VenkovniUpravy]], lávky. *(1 zdroj)*
+
+Cena průvlaku KVH/BSH v Kč/bm včetně montáže ani sloupkové stěny v Kč/m² komplet ve zdrojích této rešerše nalezena nebyla.
+
 ## Related pages
 
 [[Index]]
@@ -218,4 +225,5 @@ Standardně dodáváno nevysušené; sušené na požadavek. Smrk (SM). *(unveri
 - [[SdkMaterial]]
 - [[SlamenaStenaDoplnky]]
 - [[Strecha]]
+- [[VenkovniUpravy]]
 <!-- /nerd:links -->

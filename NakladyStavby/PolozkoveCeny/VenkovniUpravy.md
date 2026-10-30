@@ -446,6 +446,40 @@ Podle vyhl. č. 441/2013 Sb. plochy charakteru pozemních komunikací (parkoviš
 
 (source: https://www.uur.cz/media/y4ain34y/ceny-ti-2025-celek.pdf)
 
+### Podtlaková kanalizace — jediná nalezená jednotková cena (ventil), smlouva Kolín 2022
+
+Smlouva o dílo města Kolína, podtlaková kanalizace Ke Sportovištím (Kolín-Sendražice), ze 30. 5. 2022, soupis ze 12. 4. 2022; položky z části v cenové soustavě ÚRS (2019 02), z části vlastní položky zhotovitele (kód R).
+
+| Položka | Cena | DPH | Mat./práce | Kód |
+|---|---|---|---|---|
+| Ventil Airvac 3" včetně příslušenství a nasávacího potrubí | 32 600 Kč/ks | v soupisu pravděpodobně bez DPH (rekapitulace 251 393,60 Kč bez DPH = 304 186,30 Kč s DPH 21 %); text je po rozpoznání zašuměný | dodávka + příslušenství | 899500110R (vlastní položka, ne ÚRS) |
+| Ventil Airvac 2" včetně příslušenství a nasávacího potrubí | cena z rozpoznaného textu nečitelná | — | — | 899500100R |
+
+Cena celé sběrné šachty s ventilem v Kč/ks v soupisu **není** jako jedna položka; šachta je rozložena na plastovou šachtu, obetonování (ÚRS 899620141), bednění (ÚRS 899640112), poklop D400 a ventil. Jednotková cena šachty tedy zůstává nedoložena. Celé dílo (podtlaková stoka + přípojka + VRN) 354 790,90 Kč bez DPH. *(1 zdroj)*
+
+(source: https://smlouvy.gov.cz/smlouva/soubor/25706427/MKOLP0031POD.pdf)
+
+### Dřevěné lávky a mostovky — veřejné zakázky (kontext pro vyvýšenou terasu, ne cena terasy)
+
+Terasa vyvýšená na nosné konstrukci nemá v nalezených zdrojích cenu Kč/m² komplet. Nejbližší jsou venkovní dřevěné lávky; ber je jen jako řádový kontext.
+
+| Zakázka | Cena | DPH | Rok | Zdroj |
+|---|---|---|---|---|
+| Lávka přes potok, celodřevěná, 6 × 1,2 m, oboustranné zábradlí, trámy 160/300, prkna 40/140, impregnace — výroba a montáž | 72 500 Kč (≈ 12 100 Kč/bm, ≈ 10 070 Kč/m² půdorysu) | bez DPH | 2025 | [objednávka MěÚ Týn nad Vltavou](https://smlouvy.gov.cz/smlouva/soubor/39196452/Objedn%C3%A1vka%20-%20v%C3%BDroba%20a%20mont%C3%A1%C5%BE%20d%C5%99ev%C4%9Bn%C3%A9%20l%C3%A1vky%20p%C5%99es%20Pale%C4%8Dk%C5%AFv%20potok.pdf) *(1 zdroj)* |
+| Lávka Mariánské luky: výroba nové lávky, modřín 2,1 m³, komplet | 81 000 Kč | bez DPH | 2024 (nabídka 7. 3. 2024) | [příloha smlouvy](https://smlouvy.gov.cz/smlouva/soubor/34514535/P%C5%99%C3%ADloha.pdf) *(1 zdroj)* |
+| Pochozí dřevěná konstrukce na ocelové mostovce (modřín 27/138), demontáž stávající 15,52 m²; hlavní část 53 003,40 Kč | 75 001,89 Kč celkem s VRN (s DPH 21 % 90 752,29 Kč) | uvedeno obojí | 2022 | [město Mělník, objednávka 1656/2022](https://smlouvy.gov.cz/smlouva/soubor/27843965/1656_2022.PDF) *(1 zdroj, text silně poškozen)* |
+
+Dílčí položky z přílohy Mariánské luky (2024, bez DPH): řezivo modřín hraněné 15 600 Kč/m³ (jen materiál), formátování řeziva 5 000 Kč/m³, práce 300 Kč/h.
+Dílčí položky z rozpočtu vodohospodářské stavby (smlouva 10908488, kódy 4219…): dřevěná mostovka z měkkých hranolů 14 500 Kč/m³ (ÚRS 421951113), tlaková impregnace 2 500 Kč/m³, mostní podlahy z fošen — montáž 220 Kč/m² (ÚRS 421953321), bez DPH, rok rozpočtu neuveden *(1 zdroj)*. Dubové lávky komplet s oboustranným zábradlím: 5,9 m 61 390 Kč, 7,6 m 72 161 Kč, 11,15 m 92 000 Kč (kpl; smlouva z roku 2018 s cenou díla bez DPH).
+
+(source: https://smlouvy.gov.cz/smlouva/soubor/14206888/SML-00327-2018-953-D02.pdf; https://smlouvy.gov.cz/smlouva/soubor/39196452/; https://smlouvy.gov.cz/smlouva/soubor/34514535/P%C5%99%C3%ADloha.pdf; https://smlouvy.gov.cz/smlouva/soubor/27843965/1656_2022.PDF)
+
+### Domovní kanalizační šachta — ÚÚR 2025 (gravitační, pro srovnání)
+
+Cenový přehled ÚÚR 2025 uvádí „domovní kanalizační šachtu s čistícím kusem a zemními pracemi" v ukazateli Kč/m³ obestavěného prostoru (např. 16 480 Kč/m³ OP) a kanalizační šachty bez zemních prací 17 800 Kč/ks (plastová DN 425, hloubka do 2 m) až 44 000–79 000 Kč/ks (betonové, uvažovaná hloubka 3 m). Podtlakovou šachtu s ventilem zdroj neuvádí; DPH ve vyňatých řádcích uvedeno nebylo.
+
+(source: https://www.uur.cz/media/xa3pha4j/03-kanalizace-ceny-ti-2025.pdf)
+
 ## Open questions
 
 - ÚÚR tabulka 3.7 (domovní přípojky): v extrahovaném textu není u čísel vidět jednotka; podle kontextu kapitoly jde o Kč/bm — ověřit v PDF.
@@ -454,5 +488,7 @@ Podle vyhl. č. 441/2013 Sb. plochy charakteru pozemních komunikací (parkoviš
 ## See also
 
 - [[Beton]]
+- [[Rezivo]]
 - [[TerenniUpravySvahu]]
+- [[UrsPolozky]]
 <!-- /nerd:links -->

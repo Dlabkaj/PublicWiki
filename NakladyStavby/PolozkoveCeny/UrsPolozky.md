@@ -211,6 +211,18 @@ Strojní přesun hmot u přízemní až jednopatrové zděné budovy stojí **38
 | Zařízení staveniště — budovy a haly občanské výstavby, výpočtová základna ZRN, podle Podmínek CS ÚRS 2026/I | 2,80 % (v rámcové smlouvě přepočteno koeficientem 0,828 na 2,32 %) | 2026 | [47] *(1 zdroj)* |
 | Příprava staveniště — ostatní objekty, výpočtová základna ZRN, podle Podmínek CS ÚRS 2026/I | 1,50 % | 2026 | [47] *(1 zdroj)* |
 
+## Doplněk (rešerše mezer 2026-10): kódy bez cen a nové ceny
+
+| Kód | Popis | Kč/MJ | DPH | Rok | Zdroj |
+|---|---|---|---|---|---|
+| 762952014 | Hranol konstrukční BSH vrstvený lepený pohledový, m³ | začerněno (XXXXXX) | — | 2025 | Trutnov, hygienické zařízení, registr smluv *(cena nenalezena)* |
+| 762951004 | Hranol stavební řezivo průřezu do 224 cm², dl. 6–8 m, m³ | začerněno | — | 2025 | tamtéž |
+| 764 (kód neuveden; RTS) | Oplechování komína, kpl | 3 000 Kč/kpl | bez DPH (pravděpodobně) | 2025 | Boskovice, dodatek č. 2 *(1 zdroj)* |
+| 421951113 | Dřevěná mostovka z měkkých hranolů, m³ | 14 500 Kč/m³ | bez DPH | rok neuveden | smlouva 10908488 *(1 zdroj)* |
+| 421953321 | Dřevěné mostní podlahy z fošen a hranolů — montáž, m² | 220 Kč/m² | bez DPH | rok neuveden | tamtéž *(1 zdroj)* |
+
+Ceny ostatních položek viz [[Strecha]] (komín) a [[VenkovniUpravy]] (podtlakový ventil, lávky).
+
 ## Co se nenašlo
 
 - Kompletní obvodová drenáž DN 100 (trubka + obsyp + geotextilie) jako jedna položka v Kč/m. Skládá se z řádků v sekci 2.
@@ -278,5 +290,7 @@ Všechny zdroje jsou přílohy smluv v registru smluv, nalezené fulltextem Hlí
 - [[Elektroinstalace]]
 - [[Izolace]]
 - [[OknaPlast]]
+- [[Strecha]]
 - [[VedlejsiNaklady]]
+- [[VenkovniUpravy]]
 <!-- /nerd:links -->

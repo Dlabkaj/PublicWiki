@@ -1068,3 +1068,15 @@ Append-only record of what NERD did to this wiki, newest last.
 - pages: DobryNavrhRD/RIBA-House-of-the-Year-2017-Caring-Wood.md
 - chars: 0
 - run: 20261030T083120Z-0b95
+
+## [2026-10-30] ingest | Jednotkové ceny chybějících položek nacenění RD zdola, ČR 2024–2026
+
+- pages: NakladyStavby/PolozkoveCeny/Rezivo.md, NakladyStavby/PolozkoveCeny/Strecha.md, NakladyStavby/PolozkoveCeny/UrsPolozky.md, NakladyStavby/PolozkoveCeny/VenkovniUpravy.md
+- chars: 47000
+- run: 20261030T183033Z-0387
+
+## [2026-10-30] review | Jednotkové ceny chybějících položek nacenění RD zdola, ČR 2024–2026
+
+- pages: LAST_VERIFY=2026-10-30T18:45:00Z, NakladyStavby/PolozkoveCeny/Rezivo.md, NakladyStavby/PolozkoveCeny/Strecha.md, NakladyStavby/PolozkoveCeny/UrsPolozky.md, NakladyStavby/PolozkoveCeny/VenkovniUpravy.md
+- chars: 0
+- run: 20261030T183322Z-950c

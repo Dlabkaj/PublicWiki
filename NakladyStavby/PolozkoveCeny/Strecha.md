@@ -402,6 +402,20 @@ Ceny z agregátoru skutečných poptávek od ověřených firem. Zahrnují více
 
 ---
 
+### Oplechování komína — jednotkové ceny z veřejných smluv a portálu (2024–2026)
+
+Každá cena z jedné smlouvy / jednoho portálu = *(1 zdroj)*; jde o jednotlivé zakázky, ne ceník.
+
+| Položka | Cena | DPH | Mat./práce | Zdroj (rok) |
+|---|---|---|---|---|
+| Oplechování komína, výměna — položka RTS (Díl 764), rekonstrukce střechy Boskovice | 3 000 Kč/kpl (1 ks) | smlouva uvádí celek bez i s DPH 21 %; položka v rozpočtu pravděpodobně bez DPH | komplet (dodávka + montáž) | [registr smluv, dodatek č. 2](https://smlouvy.gov.cz/smlouva/soubor/45674005/dodatek_c._2_Boskovice_rekonstrukce_strechy_REGISTR_SMLUV.pdf) (2025) *(1 zdroj)* |
+| Oplechování a tmelení komínu, oprava střechy polesí | 5 000 Kč/ks (1 ks) | bez DPH | komplet | [registr smluv, objednávka č. 7:11/2024/028](https://smlouvy.gov.cz/smlouva/soubor/34752599/1712739380131_Objednavka_Redigovano.pdf) (2024) *(1 zdroj)* |
+| „Oplechování komína" — typická poptávka v kategorii klempíř, Praha, jednopatrový RD (oprava stávajícího) | 10 200 Kč (portálový příklad „střední zakázky", ne cena konkrétní zakázky) | neuvedeno | práce + materiál, rozsah neuveden | [nejremeslnici.cz](https://www.nejremeslnici.cz/reference/891815-oplechovani-komina) (reference z 14. 5. 2025) *(1 zdroj)* |
+
+**Rozdíl rozsahu, ne rozpor:** 3 000–5 000 Kč/ks z veřejných zakázek jsou komplet (dodávka + montáž), 1 500–4 000 Kč/ks výše je jen práce, 10 200 Kč na portálu je oprava stávajícího komína s materiálem. Pro odhad komplet nového lemování: 3 000–5 000 Kč/ks bez DPH (3 600–6 050 Kč s DPH 21 %). Nevyřešený zůstává jen rozpor mezi dvěma ceníky práce (600–1 000 vs. 1 500–4 000 Kč/ks) výše. Smlouva o dílo z Plzně-Černic (2021, 2 ks komínů) má položku oplechování komína, ale sloupce po rozpoznání textu jsou promíchané, cena se z ní spolehlivě vyčíst nedala — nepoužito.
+
+(source: https://smlouvy.gov.cz/smlouva/soubor/45674005/dodatek_c._2_Boskovice_rekonstrukce_strechy_REGISTR_SMLUV.pdf; https://smlouvy.gov.cz/smlouva/soubor/34752599/1712739380131_Objednavka_Redigovano.pdf; https://www.nejremeslnici.cz/reference/891815-oplechovani-komina)
+
 ## Related pages
 
 [[Rezivo]]
@@ -416,4 +430,5 @@ Ceny z agregátoru skutečných poptávek od ověřených firem. Zahrnují více
 - [[Okna]]
 - [[Rezivo]]
 - [[SouhrnCenyStavby]]
+- [[UrsPolozky]]
 <!-- /nerd:links -->
