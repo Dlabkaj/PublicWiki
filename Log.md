@@ -942,3 +942,129 @@ Append-only record of what NERD did to this wiki, newest last.
 - pages: LAST_VERIFY=2026-10-30T08:00:00Z, NavrhRD/PsychologieInterieru.md
 - chars: 0
 - run: 20261030T074417Z-60c6
+
+## [2026-10-30] ingest | Příklady dobrého návrhu rodinného domu — soutěže, ceny a video přehlídky a co z nich plyne
+
+- pages: DobryNavrhRD/Dum-na-Kozine.md
+- chars: 4724
+- run: 20261030T080808Z-7797
+
+## [2026-10-30] ingest | Příklady dobrého návrhu rodinného domu — soutěže, ceny a video přehlídky a co z nich plyne
+
+- pages: DobryNavrhRD/Dum-na-Kozine.md, DobryNavrhRD/Rodinny-dum-Driteci.md, DobryNavrhRD/Rodinny-dum-Polanka-nad-Odrou.md, DobryNavrhRD/Souteze-porota-vs-ctenari.md
+- chars: 10052
+- run: 20261030T080916Z-a224
+
+## [2026-10-30] ingest | Příklady dobrého návrhu rodinného domu — soutěže, ceny a video přehlídky a co z nich plyne
+
+- pages: DobryNavrhRD/Anti-vzory.md, DobryNavrhRD/Dum-Ceska-Briza.md, DobryNavrhRD/Kriterium-dispozice.md, DobryNavrhRD/Kriterium-hmota.md, DobryNavrhRD/Kriterium-interier.md, DobryNavrhRD/Kriterium-material.md, DobryNavrhRD/Kriterium-svetlo.md, DobryNavrhRD/Kriterium-vstup-a-prechody.md, DobryNavrhRD/RIBA-House-of-the-Year-2023-Green-House.md, DobryNavrhRD/RIBA-House-of-the-Year-2024-Six-Columns.md
+- chars: 20000
+- run: 20261030T081109Z-ca2f
+
+## [2026-10-30] ingest | Příklady dobrého návrhu rodinného domu — soutěže, ceny a video přehlídky a co z nich plyne
+
+- pages: DobryNavrhRD/Anti-vzory.md, DobryNavrhRD/Kriterium-dispozice.md, DobryNavrhRD/Kriterium-hmota.md, DobryNavrhRD/Kriterium-interier.md, DobryNavrhRD/Kriterium-material.md, DobryNavrhRD/Kriterium-svetlo.md, DobryNavrhRD/Kriterium-vstup-a-prechody.md, DobryNavrhRD/Principy-Alexander-Susanka.md, DobryNavrhRD/RIBA-House-of-the-Year-2017-Caring-Wood.md, DobryNavrhRD/RIBA-House-of-the-Year-2022-Red-House.md, DobryNavrhRD/RIBA-House-of-the-Year-2024-Six-Columns.md
+- chars: 16097
+- run: 20261030T081423Z-b562
+
+## [2026-10-30] review | Příklady dobrého návrhu rodinného domu — soutěže, ceny a video přehlídky a co z nich plyne
+
+- pages: DobryNavrhRD/Kriterium-hmota.md, LAST_VERIFY=2026-10-30T09:00:00Z
+- chars: 0
+- run: 20261030T081923Z-9378
+
+## [2026-10-30] review | Příklady dobrého návrhu rodinného domu — soutěže, ceny a video přehlídky a co z nich plyne
+
+- pages: DobryNavrhRD/RIBA-House-of-the-Year-2024-Six-Columns.md, LAST_VERIFY=2026-10-30T09:10:00Z
+- chars: 0
+- run: 20261030T082058Z-0126
+
+## [2026-10-30] review | Příklady dobrého návrhu rodinného domu — soutěže, ceny a video přehlídky a co z nich plyne
+
+- pages: DobryNavrhRD/Kriterium-dispozice.md, LAST_VERIFY=2026-10-30T08:30:00Z
+- chars: 0
+- run: 20261030T082202Z-43ef
+
+## [2026-10-30] review | Příklady dobrého návrhu rodinného domu — soutěže, ceny a video přehlídky a co z nich plyne
+
+- pages: DobryNavrhRD/Kriterium-vstup-a-prechody.md, LAST_VERIFY=2026-10-30T08:35:00Z
+- chars: 0
+- run: 20261030T082301Z-3a3c
+
+## [2026-10-30] review | Příklady dobrého návrhu rodinného domu — soutěže, ceny a video přehlídky a co z nich plyne
+
+- pages: DobryNavrhRD/Kriterium-svetlo.md, LAST_VERIFY=2026-10-30T08:40:00Z
+- chars: 0
+- run: 20261030T082400Z-f7d2
+
+## [2026-10-30] review | Příklady dobrého návrhu rodinného domu — soutěže, ceny a video přehlídky a co z nich plyne
+
+- pages: DobryNavrhRD/Kriterium-interier.md
+- chars: 0
+- run: 20261030T082502Z-c094
+
+## [2026-10-30] review | Příklady dobrého návrhu rodinného domu — soutěže, ceny a video přehlídky a co z nich plyne
+
+- pages: DobryNavrhRD/Kriterium-material.md
+- chars: 0
+- run: 20261030T082559Z-77a7
+
+## [2026-10-30] review | Příklady dobrého návrhu rodinného domu — soutěže, ceny a video přehlídky a co z nich plyne
+
+- pages: DobryNavrhRD/Anti-vzory.md
+- chars: 0
+- run: 20261030T082638Z-4eb1
+
+## [2026-10-30] review | Příklady dobrého návrhu rodinného domu — soutěže, ceny a video přehlídky a co z nich plyne
+
+- pages: DobryNavrhRD/Principy-Alexander-Susanka.md
+- chars: 0
+- run: 20261030T082730Z-2948
+
+## [2026-10-30] review | Příklady dobrého návrhu rodinného domu — soutěže, ceny a video přehlídky a co z nich plyne
+
+- pages: DobryNavrhRD/Dum-na-Kozine.md
+- chars: 0
+- run: 20261030T082832Z-2f24
+
+## [2026-10-30] review | Příklady dobrého návrhu rodinného domu — soutěže, ceny a video přehlídky a co z nich plyne
+
+- pages: DobryNavrhRD/Rodinny-dum-Polanka-nad-Odrou.md
+- chars: 0
+- run: 20261030T082845Z-b4c3
+
+## [2026-10-30] review | Příklady dobrého návrhu rodinného domu — soutěže, ceny a video přehlídky a co z nich plyne
+
+- pages: DobryNavrhRD/Souteze-porota-vs-ctenari.md
+- chars: 0
+- run: 20261030T082901Z-d5bc
+
+## [2026-10-30] review | Příklady dobrého návrhu rodinného domu — soutěže, ceny a video přehlídky a co z nich plyne
+
+- pages: DobryNavrhRD/Rodinny-dum-Driteci.md
+- chars: 0
+- run: 20261030T082928Z-4e4a
+
+## [2026-10-30] review | Příklady dobrého návrhu rodinného domu — soutěže, ceny a video přehlídky a co z nich plyne
+
+- pages: DobryNavrhRD/Dum-Ceska-Briza.md
+- chars: 0
+- run: 20261030T083002Z-b508
+
+## [2026-10-30] review | Příklady dobrého návrhu rodinného domu — soutěže, ceny a video přehlídky a co z nich plyne
+
+- pages: DobryNavrhRD/RIBA-House-of-the-Year-2023-Green-House.md
+- chars: 0
+- run: 20261030T083024Z-ce7d
+
+## [2026-10-30] review | Příklady dobrého návrhu rodinného domu — soutěže, ceny a video přehlídky a co z nich plyne
+
+- pages: DobryNavrhRD/RIBA-House-of-the-Year-2022-Red-House.md
+- chars: 0
+- run: 20261030T083048Z-35d8
+
+## [2026-10-30] review | Příklady dobrého návrhu rodinného domu — soutěže, ceny a video přehlídky a co z nich plyne
+
+- pages: DobryNavrhRD/RIBA-House-of-the-Year-2017-Caring-Wood.md
+- chars: 0
+- run: 20261030T083120Z-0b95

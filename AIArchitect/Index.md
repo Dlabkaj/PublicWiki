@@ -28,6 +28,7 @@ Konvence psaní: [[Conventions]] · Historie rešerší: [[Log]]
 | Limity obálky mimo vyhl. 146/2024 (ochranná pásma, ZPF) | [[../Legislativa/StavebniObalka/Index]] | A2, B1, B3 |
 | Požárně nebezpečný prostor a požární odstupy RD | [[../Legislativa/PozarniBezpecnostRD/Index]] | B1, B3, B5 |
 | Hmotové řešení RD — podlažnost, tvar hmoty | [[../HmotoveReseniRD/Index]] | B2 |
+| Příklady dobrého návrhu RD (oceněné domy, kritéria hmota/dispozice/světlo/materiál, anti-vzory) | [[../DobryNavrhRD/Index]] | B2, B4, B10 |
 | Poměr A/V, obestavěný prostor, porovnání variant | [[../HmotoveReseniRD/PomerAV/Index]] | B2, B6 |
 | Tvar a sklon střechy, osazení k terénu | [[../HmotoveReseniRD/StrechaATeren/Index]] | B2, B3 |
 

@@ -263,6 +263,7 @@ Update this file whenever a page is added or removed.
 - [[CenovaMetodikaStaveb/Index]] — Landing page for DPH u rodinneho domu a podil prace v cene stavby. Sub-pages:
 - [[CzechMinerals/Index]] — Souhrn: Významné, drahokamové a geologicky výrazné minerály a sběratelské lokality České republiky.
 - [[DispozicniVarianty/Index]] — Podklad pro fázi B4 architektonické studie: převod programu z fáze A na plochy, zónování, komunikace a schodiště…
+- [[DobryNavrhRD/Index]] — Landing page for Příklady dobrého návrhu rodinného domu — soutěže, ceny a video přehlídky a co z nich plyne.
 - [[GithubActionsMatrixStrategy/Index]] — Landing page for GitHub Actions matrix strategy patterns. Sub-pages:
 - [[HmotoveReseniRD/Index]] — Landing page for Podlažnost a proporce hmoty rodinného domu. Sub-pages:
 - [[HmotoveReseniRD/PomerAV/Index]] — Landing page for Poměr A/V a porovnávání hmotových variant RD. Sub-pages:
