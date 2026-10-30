@@ -4,7 +4,7 @@
 
 **Sources**: [CenaNoveStrechy.cz — kalkulačka cena střechy](https://cenanovestrechy.cz/kalkulacka-cena-strechy/); [CenaNoveStrechy.cz — cena krovu](https://cenanovestrechy.cz/cena-krovu/); [AZ-Strecha.cz — cena střechy za m²](https://www.az-strecha.cz/cena-a-rekonstrukce/cena-strechy-za-m2/); [Kolikmaterialu.cz — kolik stojí střecha 2026](https://kolikmaterialu.cz/kolik-stoji-strecha/); [Roofer.cz — kolik stojí nová střecha 2026](https://roofer.cz/index.php?route=information%2Faridius_news&aridius_news_id=58); [Daibau.cz — střešní krytina cena 2026](https://www.daibau.cz/ceny/stresni_krytina)
 
-**Last updated**: 2026-07-09
+**Last updated**: 2026-10-20
 
 ---
 
@@ -46,7 +46,7 @@
 
 ### Modelové příklady (bez DPH)
 
-**Modelový příklad č. 1: Plechová střecha 100 m², tradiční krov, mezikrokevní izolace** *(unverified)*
+**Modelový příklad č. 1: Plechová střecha 100 m², tradiční krov, mezikrokevní [[Izolace]]** *(unverified)*
 
 | Položka | Kč/m² | Celkem |
 |---|---|---|
@@ -179,7 +179,7 @@ Ceny zahrnují materiál + standardní práci pokrývačů, **BEZ** lešení, kl
 | Okapový žlab pozinkovaný | 300–600 Kč/bm | *(unverified)* |
 | Okapový žlab titan-zinkový | 600–1 200 Kč/bm | *(unverified)* |
 | Svod (odpadní roura) plastový | 200–400 Kč/bm | *(unverified)* |
-| Oplechování komína | 3 000–10 000 Kč/kus | *(unverified)* |
+| Oplechování komína | 3 000–10 000 Kč/kus | ⚠️ CONFLICT: viz sekce Doplňky — prostupy a oplechování komína (jiné zdroje 600–1 000 a 1 500–4 000 Kč/ks, jen práce) |
 | Oplechování vikýře | 5 000–15 000 Kč/kus | *(unverified)* |
 | Hřebenový plech nebo tašky | 300–800 Kč/bm | *(unverified)* |
 
@@ -306,8 +306,114 @@ Ceny z agregátoru skutečných poptávek od ověřených firem. Zahrnují více
 
 ---
 
+## Doplňky šikmé střechy — podbití, sněhové zábrany, prostupy, jeřáb (2025–2026)
+
+> Položkové ceny doplňků, které souhrnné ceny Kč/m² střechy často nezahrnují. U každé položky je uvedeno, co zdroj říká o DPH a zda jde o materiál, práci, nebo obojí. Řádky z vlastního ceníku firmy / e-shopu dokládají cenu té firmy (bez značky); jde o jednotlivé nabídky, ne o tržní průměr. Řádky z agregátorů a magazínů s jediným zdrojem nesou *(needs second source)*. Staženo 2026-10-20.
+
+### Podbití přesahů
+
+| Položka | Cena | DPH | Mat./práce | Zdroj (rok) |
+|---|---|---|---|---|
+| OSB desky na podbití | 150–200 Kč/m² | neuvedeno | jen materiál | [Bevedo.cz — podbití střechy návod](https://www.bevedo.cz/magazin/rady-a-napady/podbiti-strechy-navod-zname-ceny-za-osb-desky-a-palubky-pro-vasi-strechu/) (článek bez data) *(needs second source)* |
+| Dřevěné palubky na podbití | 200–350 Kč/m² (+ spojovací materiál, impregnace, nátěr zvlášť) | neuvedeno | jen materiál | Bevedo.cz *(needs second source)* |
+| Práce řemeslníka | 250–500 Kč/hod | neuvedeno | jen práce | Bevedo.cz *(needs second source)* |
+| Podbití komplet (materiál + práce) | 250–600 Kč/m² (zdroj uvádí na dvou místech 300–600 a 250–500) | neuvedeno | mat. + práce | Bevedo.cz *(needs second source)* |
+| Montáž obkladových palubek zespodu podbitých (římsy) | od 250 Kč/m² | neuvedeno | jen práce | [Dělám se dřevem — ceník tesařských prací](https://delamsedrevem.cz/cenik.html) („ceny pouze informativní", web © 2011–2026) |
+| Montáž jednoduchého roštu | od 60 Kč/m² | neuvedeno | jen práce | Dělám se dřevem |
+| Montáž OSB desek | od 150 Kč/m² | neuvedeno | jen práce | Dělám se dřevem |
+| Aplikace impregnačního nátěru / lazurování | od 30 / od 75 Kč/m² | neuvedeno | jen práce | Dělám se dřevem |
+| Tesařská hodinová sazba (montáž) | 370 Kč/hod | neuvedeno | jen práce | Dělám se dřevem |
+| Historická nabídka z dotazu na fóru (2016) | 500 Kč/m² vč. palubek + 40 Kč/m² nátěr | neuvedeno | mat. + práce | [Modrastrecha.cz — fórum „Cena podbití střechy"](https://www.modrastrecha.cz/forum/strecha/cena-podbiti-strechy/) — jen dokreslení, cena z roku 2016 |
+
+> Skládaná orientace (výpočet, ne údaj zdroje): palubky 200–350 Kč/m² (Bevedo) + montáž palubek od 250 Kč/m² + rošt od 60 Kč/m² (Dělám se dřevem) ≈ od 510 Kč/m² bez řeziva roštu a nátěru — horní polovina Bevedo pásma 250–600 Kč/m². Bevedo neuvádí, zda je v jeho komplet ceně rošt; doporučuje dřevěný rošt ze suchého řeziva, latě po cca 60 cm, palubky tl. 19 mm.
+
+### Sněhové zábrany
+
+| Položka | Cena | DPH | Mat./práce | Zdroj (rok) |
+|---|---|---|---|---|
+| Montáž sněhových zábran | 100–250 Kč/mb (ukázkový rozpočet: 180 Kč/mb) | bez DPH | jen práce | [CenaNoveStrechy.cz — ceník pokrývačských prací](https://cenanovestrechy.cz/cenik-pokryvacskych-praci/) (2026) *(needs second source)* |
+| Standardní sněhová zábrana z pozinkovaného kovu, typ krytiny neuveden | 450 Kč/bm (orientační) | neuvedeno | mat. + montáž | [Tatoma Woodhouse — montáž sněhových zábran cena](https://www.tatomawoodhouse.cz/strechy-sluzby/montaz-snehovych-zabran-cena/) (bez data) |
+| Tašková krytina — protisněhová mříž vč. držáků a montáže | 840 Kč/m (pozink), 960 Kč/m (barva cihlová/hnědá/černá) | bez DPH | mat. + montáž | [Černý spol. s r.o. — snehove-zabrany.cz, kompletní ceník](http://www.snehove-zabrany.cz/kompletni-cenik/) (bez data, pravděpodobně před 2024 — viz pozn.) |
+| Tašková krytina — protisněhová mříž „kompletní provedení" | 1 060 Kč (pozink), 1 275 Kč (barva) — jednotka v ceníku neuvedena, zřejmě za metr | bez DPH | mat. + montáž | snehove-zabrany.cz |
+| Sněhový hák vč. montáže | 95 Kč/ks (barevný) | bez DPH | mat. + montáž | snehove-zabrany.cz |
+| Doplnění střešní latě vč. materiálu | 55 Kč/m | bez DPH | mat. + práce | snehove-zabrany.cz |
+| Demontáž a zpětná montáž krytiny (při dodatečné montáži) | 165 Kč/m | bez DPH | práce | snehove-zabrany.cz |
+| Falcovaná krytina — jednotrubková zábrana komplet (pro srovnání) | 390 Kč/m pozink · 490 hliník · 800 nerez · 980 měď | bez DPH | mat. + montáž | snehove-zabrany.cz |
+
+> Ceník snehove-zabrany.cz uvádí „ceny bez DPH (15 % případně 21 %)". Sazba 15 % odkazuje na právní stav před rokem 2024 — ceník je pravděpodobně starší; pro 2026 brát jako dolní orientaci.
+
+### Prostupy krytinou a oplechování komína
+
+| Položka | Cena | DPH | Mat./práce | Zdroj (rok) |
+|---|---|---|---|---|
+| Bramac keramická průchozí taška sanitárního odvětrání Granát 13 (sada s redukcí 125/100, napojovací soupravou 125 a pružnou spojkou) | 4 528 Kč/ks bez DPH = 5 479 Kč s DPH (po slevě 17 %; ceníková cena 5 522 Kč bez DPH) | uvedeno obojí | jen materiál | [Izomat.cz — Bramac Granát 13 průchozí taška](https://www.izomat.cz/bramac-taska-pruchozi-pro-sanitarni-odvetrani-granat-13-glazura-cervenohneda.html) (staženo 10/2026) |
+| Bramac keramická průchozí taška sanitárního odvětrání Topas 13, černá glazura (stejná sada) | 6 046 Kč/ks bez DPH = 7 316 Kč s DPH (po slevě; před slevou 6 718 Kč bez DPH) | uvedeno obojí | jen materiál | [Proex2000.cz — Bramac Topas 13](https://www.proex2000.cz/topas-13-pruchozi-taska-sanitarniho-odvetrani-cerna-glazura.html) (staženo 10/2026) |
+| Bramac **betonová** krytina — odvětrávací taška (Classic / Tegalit Star / MAX Protector) — pro srovnání, ne pro pálenou tašku | 451 / 562 / 634 Kč/ks (ceníkové 513 / 639 / 720 Kč) | neuvedeno | jen materiál | [Coleman — e-shop, Betonová krytina Bramac](https://e.coleman.cz/bramac-cz) (staženo 10/2026) |
+| Tondach — prostupová taška / odvětrání kanalizace: montáž | 130–200 Kč/komplet („cena obvyklá za montáž") | bez DPH | jen práce | [Krytiny-strechy.cz — Tondach odvětrání](https://www.krytiny-strechy.cz/katalog-pomocny-material/prvky-odvetrani-domu-antenni-pruchodky/657364-tondach-cr-s-r-o-p.html) (ceny platné od 08/2025) *(needs second source)* |
+| Montáž odvětrávacích prvků (klempíř) | 300–500 Kč/ks | bez DPH | jen práce | [CenaNoveStrechy.cz — ceník klempířských prací](https://cenanovestrechy.cz/cenik-klempirskych-praci/) (2026) *(needs second source)* |
+| Oplechování komínu | 600–1 000 Kč/ks | bez DPH | jen práce | CenaNoveStrechy.cz — ceník klempířských prací (2026) |
+| Oplechování komína (4 strany), titanzinek nebo pozink | 1 500–4 000 Kč/ks, průměr 2 500 Kč/ks; závisí na velikosti komína a druhu krytu | bez DPH (není v tom materiál, doprava ani DPH) | jen práce | [KolikMateriálu.cz — ceník klempířských prací 2026](https://kolikmaterialu.cz/cena-klempire/) (sazba ověřena 9/2026) |
+
+> Tondach: nástavec pro odvětrání kanalizace se dodává jen v sadě (prostupová taška + krytka komínku + prostupová roura, flexi hadice se stahovací páskou, těsnicí pryžová manžeta, tmel). Prostupové tašky keramické nebo kovové, nástavec keramický. Cenu materiálu stránka neuvádí.
+>
+> Montáž prostupu: ⚠️ CONFLICT: krytiny-strechy.cz (Tondach) 130–200 Kč/komplet vs. CenaNoveStrechy.cz 300–500 Kč/ks za „montáž odvětrávacích prvků" — obojí jen práce bez DPH; rozsah prací se může lišit (pokrývač vs. klempíř).
+
+#### Materiál lemování komína (pálená krytina)
+
+| Položka | Cena | DPH | Mat./práce | Zdroj (rok) |
+|---|---|---|---|---|
+| Bramac Wakaflex 280 mm × 5 m, břidlicově černá (PIB s hliníkovou mřížkou, samosvárný, pro všechny ploché i tvarované krytiny; 4,25 kg/role) | 2 739,62 Kč/role bez DPH = 3 314,94 Kč s DPH; **547,92 Kč/bm bez DPH** (662,98 s DPH) — po slevě 18 % z ceníkové ceny (ceníková s DPH 4 042,61 Kč/role); varianty černá / cihlově červená / tmavohnědá; „na poptávku" | uvedeno obojí | jen materiál | [DEK — Wakaflex BRAMAC 280 mm břidlicově černá](https://www.dek.cz/produkty/detail/1225471084-bramac-wakaflex-280mm-bc) (staženo 10/2026) |
+| Bramac Wakaflex 280 mm × 5 m, cihlově červená (4 vrstvy s hliníkovou mřížkou; roztažnost až 50 % na délku, 15 % na šířku; cca 5,2 kg/role) | ceníková 3 341,00 Kč bez DPH; po slevě 18 % **2 739,62 Kč/role bez DPH = 3 314,94 Kč s DPH** | uvedeno obojí | jen materiál | [Izomat — Wakaflex BRAMAC 280 mm 5 m cihlově červená](https://www.izomat.cz/bramac-wakaflex-280-mm-5-bm-cihlove-cervena.html) (staženo 10/2026) |
+
+> Izomat: u nepokrytých vyčnívajících částí se Wakaflex připojuje krycí lištou Wakaflex a těsnicí hmotou — ty v ceně role nejsou (cena lišty ve zdroji neuvedena).
+>
+> Shoda: DEK i Izomat uvádějí stejnou cenu role 2 739,62 Kč bez DPH (po slevě 18 %), každý u jiné barvy. Samolepicí olověný pás a lemovací sada pro pálenou krytinu (např. Tondach) s cenou v Kč — v otevřených zdrojích nenalezeno (10/2026).
+
+> ⚠️ CONFLICT: oplechování komína, jen práce bez DPH, oba zdroje 2026 — CenaNoveStrechy.cz **600–1 000 Kč/ks** vs. KolikMateriálu.cz **1 500–4 000 Kč/ks** (4 strany). Dále na této stránce AZ-Strecha.cz 3 000–10 000 Kč/kus (bez DPH, rozsah mat./práce neuveden) a [[CenikRemesel2026]] 1 500 Kč/ks (sedí do pásma KolikMateriálu). Rozdíl není vysvětlen rozsahem (mat./práce) — pro odhad použít 1 500–4 000 Kč/ks práce + materiál zvlášť.
+
+### Jeřáb a vazníky
+
+| Položka | Cena | DPH | Mat./práce | Zdroj (rok) |
+|---|---|---|---|---|
+| Zvedání materiálu na střechu (jeřáb) — pokrývačský ceník | 1 000–5 000 Kč/den (ukázkový rozpočet: 3 000 Kč/den) | bez DPH | služba | [CenaNoveStrechy.cz — ceník pokrývačských prací](https://cenanovestrechy.cz/cenik-pokryvacskych-praci/) (2026) *(needs second source)* |
+| Autojeřáb Tatra 815 AD 20 t (dosah 20 m) | 1 200–1 800 Kč/hod; přistavení + odstavení 1 000 + 1 000 Kč nebo 55 Kč/km | bez DPH | služba s obsluhou | [Autojeřáby Kladno — ceník](https://autojerabykladno.cz/cenik/) (bez data, staženo 10/2026) |
+| Autojeřáb Tatra AD 20 / AD 28 | 1 350 / 1 400 Kč/hod; 55 / 60 Kč/km; **minimální výjezd 6 000 Kč** | bez DPH | služba | [Pronájem autojeřábů Praha — ceník](https://www.autojerabypraha.com/cenik/) (© 2026) |
+| Autojeřáb Mercedes 25 t (dosah 23 m) | 1 400–2 200 Kč/hod; přistavení + odstavení 1 000 + 1 000 Kč nebo 70 Kč/km | bez DPH | služba | Autojeřáby Kladno |
+| Autojeřáb Grove 40 t (nosnost cca 30 t, dosah 29 m) | 2 400–2 900 Kč/hod; přistavení + odstavení 1 500 + 1 500 Kč nebo 85 Kč/km | bez DPH | služba | Autojeřáby Kladno |
+| Autojeřáb Grove 55 t (dosah 43 m) | 2 200–3 300 Kč/hod; přistavení + odstavení 1 950 + 1 950 Kč nebo 95 Kč/km | bez DPH | služba | Autojeřáby Kladno |
+| Autojeřáb Liebherr 35 t | 1 700 Kč/hod; 80 Kč/km; minimální výjezd 7 000 Kč | bez DPH | služba | Pronájem autojeřábů Praha |
+| Autojeřáb Liebherr LTM 1030 (1035), 35 t | 1 800 Kč/hod; přistavení/odstavení 70 Kč/km | bez DPH | služba | [Červený s.r.o. — ceník](https://www.cerveny.cz/cenik) (bez data, staženo 10/2026) |
+| Autojeřáb Liebherr LTM 1045, 50 t | 2 200 Kč/hod; 90 Kč/km | bez DPH | služba | Červený s.r.o. |
+| Autojeřáb Liebherr LTM 1050 / 1060, 50–60 t | 2 700 Kč/hod; 110 Kč/km | bez DPH | služba | Červený s.r.o. |
+| Městský jeřáb Spierings SK 1265 (dosah 60 m) | 5 500 Kč/hod; 190 Kč/km | bez DPH | služba | Červený s.r.o. |
+| Malý mobilní jeřáb (nosnost 1,2 t, dosah 12 m), **bez obsluhy a bez přepravy** | 600–1 250 Kč/hod (v textu téže stránky 650–1 450 Kč/hod) | neuvedeno | jen pronájem stroje | [Daibau.cz — cena pronájmu jeřábů](https://www.daibau.cz/ceny/pujcovna_jerabu) (agregátor poptávek, 2026) *(needs second source)* — pro osazení vazníků RD nosností nevhodný srovnávací údaj |
+
+> Autojeřáb AD 20 t: dva nezávislé ceníky se shodují — 1 200–1 800 Kč/hod (Kladno) a 1 350 Kč/hod (Praha), bez DPH, přistavení 55 Kč/km u obou.
+>
+> **Minimální účtovaná doba** (pracovní dny / víkend): Autojeřáby Kladno 1 hod / 3 hod, účtuje se každá započatá 1/2 hod; Červený s.r.o. min. nasazení 2 hod, každá započatá 1/2 hod, příhradový nástavec (krákorec) se dopravuje a montuje zvlášť; Pronájem autojeřábů Praha minimální výjezd 6 000 Kč (AD 20/28) resp. 7 000 Kč (35 t), víkendy a svátky min. 4 hod, při dlouhodobé spolupráci sleva nebo denní paušál (výši neuvádí). Žádný ze tří ceníků neuvádí denní sazbu v Kč/den. Všechny tři: „ceny lze upravit dle povahy zakázky" nebo obdobně.
+>
+> Pozor na rozpor řádu: pokrývačský ceník CenaNoveStrechy.cz počítá „zvedání materiálu (jeřáb)" 1 000–5 000 Kč/den, zatímco samotný minimální výjezd autojeřábu AD 20 je 6 000 Kč bez DPH (Praha) a 1 hod + přistavení (Kladno) ≈ 3 200–3 800 Kč. Pokrývačská položka zřejmě míní jinou techniku (stavební výtah, hydraulická ruka) — pro osazení vazníků použít ceníky autojeřábů.
+>
+> **Je jeřáb v ceně vazníků?**
+> - Strechy92.cz (výrobce dřevěných příhradových vazníků): 600–1 000 Kč bez DPH za 1 m² **půdorysné** plochy (sedlové, valbové střechy); cena zahrnuje vazníky, zavětrovací, spojovací a kotvicí materiál a montáž, **bez nákladů na jeřáb a dopravu**. Ceník bez data. [Strechy92.cz — dřevěné vazníky](https://strechy92.cz/nase-nabidka/drevene-vazniky)
+> - CenaNoveStrechy.cz (článek „střešní vazníky cena za m²", 2026): vazníky 900–2 500 Kč/m² **střešní** plochy (běžná RD 1 300–1 900), montáž vazníků 150–400 Kč/m², „doprava a manipulace individuálně"; DPH neuvedeno. Nabídky se liší rozsahem — některé obsahují jen výrobu, jiné dopravu, jeřáb/manipulaci a montáž; horší přístup nebo potřeba jeřábu cenu navyšuje. [CenaNoveStrechy.cz — střešní vazníky cena za m²](https://cenanovestrechy.cz/stresni-vazniky-cena-za-m2-kolik-stoji-vaznikova-strecha/) *(needs second source)*
+> - Nevděk vazníky (Žlutice): doprava i montáž vlastní montážní skupinou „za pomoci jeřábové techniky"; vlastní valník s hydraulickou rukou (korba 8,5 m, nosnost 9 t). Stavba musí být přístupná mechanizaci (např. jeřáb AD 20, AD 28, tahač návěsů); podmínkou je vyzrálý rovný věnec. Ceny ani to, zda je jeřáb v ceně, stránka neuvádí. [Nevděk — doprava a montáž](http://www.nevdek.cz/vazniky/364-doprava-a-montaz)
+> - Shrnutí: jeden výrobce jeřáb výslovně **vylučuje** z ceny, druhý jeřáb při montáži používá bez uvedení ceny; obecný článek říká „liší se". V nabídce vazníků vždy chtít jeřáb a dopravu jako samostatný řádek.
+
+---
+
 ## Related pages
 
 [[Rezivo]]
 [[Index]]
 [[../Index]]
+
+<!-- nerd:links -->
+## See also
+
+- [[CenikRemesel2026]]
+- [[Izolace]]
+- [[Okna]]
+- [[Rezivo]]
+- [[SouhrnCenyStavby]]
+<!-- /nerd:links -->

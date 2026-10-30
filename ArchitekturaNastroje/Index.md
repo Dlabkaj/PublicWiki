@@ -14,6 +14,7 @@ Posouzení nástrojů, kterými LLM agent reálně vyprodukuje půdorysy, řezy,
 | [ControlNet-Stable-Diffusion-Rendering.md](ControlNet-Stable-Diffusion-Rendering.md) | ControlNet + Stable Diffusion — renderování ze skic, volba módu, konzistence dávky |
 | [ComfyUI-Floorplan-to-3D.md](ComfyUI-Floorplan-to-3D.md) | ComfyUI workflow 2D půdorys → barevný render, modely a hardware |
 | [BIM-Formaty-IFC-vs-DWG.md](BIM-Formaty-IFC-vs-DWG.md) | Přehled formátů (IFC, RVT, DWG, COBie, BCF) — pohled třetí strany |
+| [CUZK-ArcGIS-REST.md](CUZK-ArcGIS-REST.md) | Parcela, budovy, DMR 5G / DMP přímo ze služeb ČÚZK — endpointy, blokovaný `getSamples`, `exportImage` jako rastr, přesnost |
 | [StropKvalityLLM.md](StropKvalityLLM.md) | Benchmarky prostorové inteligence LLM/agentů — Blueprint-Bench, RLVR, Sketch2BIM, SVG vs. rastr |
 
 ## Doporučený pipeline (jeden)

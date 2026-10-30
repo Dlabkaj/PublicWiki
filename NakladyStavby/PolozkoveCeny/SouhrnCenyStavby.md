@@ -113,3 +113,15 @@
 [[Izolace]]
 [[Index]]
 [[../Index]]
+
+<!-- nerd:links -->
+## See also
+
+- [[Beton]]
+- [[CenikRemesel2026]]
+- [[Elektroinstalace]]
+- [[Izolace]]
+- [[MalbaMaterial]]
+- [[Strecha]]
+- [[ZtiMaterial]]
+<!-- /nerd:links -->

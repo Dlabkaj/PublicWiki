@@ -89,3 +89,10 @@ Standardní rozměr tvarovky: délka 500 mm × výška 250 mm × tloušťka (typ
 [[Beton]]
 [[Index]]
 [[../Index]]
+
+<!-- nerd:links -->
+## See also
+
+- [[Beton]]
+- [[BetonarskaOcel]]
+<!-- /nerd:links -->

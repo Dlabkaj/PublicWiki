@@ -24,7 +24,8 @@ Doslovné znění klíčových odstavců: [6]
 - **odst. 2** — „Stavba musí být umístěna minimálně 2 m od hranice pozemku vyjma pozemku veřejného prostranství."
 - **odst. 3** — výjimky z odst. 2: stavby do 2 m výšky, pozemní komunikace, infrastruktura, a případy, kdy je jiný způsob zástavby v místě obvyklý. *(neověřeno — výčet z parafráze, ne z doslovného textu)*
 - **odst. 4** — při umístění na hranici nesmí být ve stěně orientované k hranici žádné stavební otvory a stavba musí zamezit stékání vody na sousední pozemek. *(1 zdroj)*
-- **odst. 5–7** — předsazené části staveb, způsob měření vzdáleností. *(1 zdroj)*
+- **odst. 5–6** — předsazené části stavby smějí v souladu s charakterem zástavby překročit stavební čáru; jejich výška nad vozovkou. *(1 zdroj)*
+- **odst. 7** — „Vzdálenosti se měří na nejkratší spojnici mezi hranicí pozemků a vnějšími povrchy obvodových stěn, dále balkonů, teras, lodžií; u objektů bez obvodových stěn mezi hranicí pozemků a obalovými čarami." [6] — **přesah střechy (okap, římsa) ve výčtu není**, odstup 2 m se tedy podle znění měří od líce stěny, ne od okapu. Výklad stavebního úřadu se může lišit; u přesahu blízko hranice platí i odst. 4 (voda a sníh nesmí stékat na sousední pozemek). *(ověřeno na krajta.slv.cz 2026-10-03, znění účinné od 1. 7. 2026)*
 
 ### Co se změnilo oproti stavu do 30. 6. 2024
 

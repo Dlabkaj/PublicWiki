@@ -132,4 +132,5 @@
 - [[Dispozice]]
 - [[Interier]]
 - [[OrientaceADenniSvetlo]]
+- [[PetZasadNavrhuDomu]]
 <!-- /nerd:links -->

@@ -30,3 +30,9 @@ Ceny za dodávku a montáž, standardní rozměr 100×210 cm (pokud neuvedeno ji
 [[Okna]]
 [[Index]]
 [[../Index]]
+
+<!-- nerd:links -->
+## See also
+
+- [[Okna]]
+<!-- /nerd:links -->

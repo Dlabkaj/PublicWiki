@@ -65,3 +65,18 @@ Orientační ceny z běžných realizací 2026. Regionálně ±15 %. *(unverifie
 [[Strecha]]
 [[Index]]
 [[../Index]]
+
+<!-- nerd:links -->
+## See also
+
+- [[CenikRemesel2026]]
+- [[Leseni]]
+- [[SdkMaterial]]
+- [[SlamenaStenaDoplnky]]
+- [[SouhrnCenyStavby]]
+- [[Strecha]]
+- [[StropyZakladyDoplnky]]
+- [[UrsPolozky]]
+- [[VnitrniPovrchy]]
+- [[ZtiMaterial]]
+<!-- /nerd:links -->

@@ -210,3 +210,12 @@ Standardně dodáváno nevysušené; sušené na požadavek. Smrk (SM). *(unveri
 [[Index]]
 [[Beton]]
 [[../Index]]
+
+<!-- nerd:links -->
+## See also
+
+- [[Beton]]
+- [[SdkMaterial]]
+- [[SlamenaStenaDoplnky]]
+- [[Strecha]]
+<!-- /nerd:links -->

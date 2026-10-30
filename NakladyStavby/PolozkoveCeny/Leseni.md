@@ -127,3 +127,10 @@ Minimum pronájmu: 14 kalendářních dnů. Ceny bez DPH. *(unverified)*
 [[Izolace]]
 [[Index]]
 [[../Index]]
+
+<!-- nerd:links -->
+## See also
+
+- [[HlinenneOmitky]]
+- [[Izolace]]
+<!-- /nerd:links -->

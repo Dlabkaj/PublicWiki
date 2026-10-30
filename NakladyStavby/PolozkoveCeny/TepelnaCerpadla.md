@@ -192,3 +192,9 @@ Srovnání zaměřeno na výkonový rozsah 8–17 kW, monoblock/split. Ceny zahr
 
 [[Index]]
 [[../Index]]
+
+<!-- nerd:links -->
+## See also
+
+- [[Komin]]
+<!-- /nerd:links -->

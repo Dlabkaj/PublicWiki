@@ -121,5 +121,6 @@
 - [[CasteChybyNavrhu]]
 - [[Dispozice]]
 - [[HmotaFasadaStrecha]]
+- [[PetZasadNavrhuDomu]]
 - [[RozmeryAProporceMistnosti]]
 <!-- /nerd:links -->

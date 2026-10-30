@@ -510,3 +510,435 @@ Append-only record of what NERD did to this wiki, newest last.
 - pages: NavrhRD/CasteChybyNavrhu.md
 - chars: 0
 - run: 20260927T192114Z-4728
+
+## [2026-10-20] ingest | Položkové ceny doplňků šikmé střechy RD v ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/Strecha.md
+- chars: 0
+- run: 20261020T150556Z-6e07
+
+## [2026-10-20] ingest | Položkové ceny doplňků šikmé střechy RD v ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/Strecha.md
+- chars: 0
+- run: 20261020T164551Z-d779
+
+## [2026-10-20] review | Položkové ceny doplňků šikmé střechy RD v ČR 2025–2026
+
+- pages: LAST_VERIFY=2026-10-20T16:50:00Z, NakladyStavby/PolozkoveCeny/Strecha.md
+- chars: 0
+- run: 20261020T164616Z-a805
+
+## [2026-10-20] ingest | Položkové ceny TZB rodinného domu v ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/Elektroinstalace.md, NakladyStavby/PolozkoveCeny/Fve.md, NakladyStavby/PolozkoveCeny/Komin.md, NakladyStavby/PolozkoveCeny/Vzt.md, NakladyStavby/PolozkoveCeny/Zti.md
+- chars: 0
+- run: 20261020T165107Z-b2b6
+
+## [2026-10-20] review | Položkové ceny TZB rodinného domu v ČR 2025–2026
+
+- pages: LAST_VERIFY=2026-10-20T17:00:00Z, NakladyStavby/PolozkoveCeny/Vzt.md
+- chars: 0
+- run: 20261020T165727Z-8680
+
+## [2026-10-20] review | Položkové ceny TZB rodinného domu v ČR 2025–2026
+
+- pages: LAST_VERIFY=2026-10-20T17:00:00Z, NakladyStavby/PolozkoveCeny/Fve.md
+- chars: 0
+- run: 20261020T165745Z-2e5c
+
+## [2026-10-20] review | Položkové ceny TZB rodinného domu v ČR 2025–2026
+
+- pages: LAST_VERIFY=2026-10-20T17:05:00Z, NakladyStavby/PolozkoveCeny/Zti.md
+- chars: 0
+- run: 20261020T165802Z-f628
+
+## [2026-10-20] review | Položkové ceny TZB rodinného domu v ČR 2025–2026
+
+- pages: LAST_VERIFY=2026-10-20T17:08:00Z, NakladyStavby/PolozkoveCeny/Zti.md
+- chars: 0
+- run: 20261020T165814Z-484c
+
+## [2026-10-20] review | Položkové ceny TZB rodinného domu v ČR 2025–2026
+
+- pages: LAST_VERIFY=2026-10-20T17:10:00Z, NakladyStavby/PolozkoveCeny/Elektroinstalace.md
+- chars: 0
+- run: 20261020T165833Z-f5cc
+
+## [2026-10-20] review | Položkové ceny TZB rodinného domu v ČR 2025–2026
+
+- pages: LAST_VERIFY=2026-10-20T17:10:00Z, NakladyStavby/PolozkoveCeny/Komin.md
+- chars: 0
+- run: 20261020T165833Z-7896
+
+## [2026-10-20] ingest | Položkové ceny slaměných stěn RD (skelet, balíky, omítky) v ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/HlinenneOmitky.md, NakladyStavby/PolozkoveCeny/SlameneBaliky.md
+- chars: 0
+- run: 20261020T170022Z-01ec
+
+## [2026-10-20] ingest | Položkové ceny slaměných stěn RD (skelet, balíky, omítky) v ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/SlameneBaliky.md
+- chars: 0
+- run: 20261020T170424Z-cacc
+
+## [2026-10-20] review | Položkové ceny slaměných stěn RD (skelet, balíky, omítky) v ČR 2025–2026
+
+- pages: LAST_VERIFY=2026-10-20T17:30:00Z, NakladyStavby/PolozkoveCeny/SlameneBaliky.md
+- chars: 0
+- run: 20261020T170528Z-7fbb
+
+## [2026-10-20] review | Položkové ceny slaměných stěn RD (skelet, balíky, omítky) v ČR 2025–2026
+
+- pages: LAST_VERIFY=2026-10-20T17:30:00Z, NakladyStavby/PolozkoveCeny/HlinenneOmitky.md
+- chars: 0
+- run: 20261020T170528Z-c476
+
+## [2026-10-20] review | Položkové ceny slaměných stěn RD (skelet, balíky, omítky) v ČR 2025–2026
+
+- pages: LAST_VERIFY=2026-10-20T17:32:00Z, NakladyStavby/PolozkoveCeny/SlameneBaliky.md
+- chars: 0
+- run: 20261020T170537Z-8ddd
+
+## [2026-10-20] ingest | Položkové ceny výplní otvorů RD v ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/Okna.md, NakladyStavby/PolozkoveCeny/VnitrniDvere.md
+- chars: 0
+- run: 20261020T170902Z-a626
+
+## [2026-10-20] review | Položkové ceny výplní otvorů RD v ČR 2025–2026
+
+- pages: LAST_VERIFY=2026-10-20T17:50:00Z, NakladyStavby/PolozkoveCeny/Okna.md
+- chars: 0
+- run: 20261020T171202Z-a260
+
+## [2026-10-20] review | Položkové ceny výplní otvorů RD v ČR 2025–2026
+
+- pages: LAST_VERIFY=2026-10-20T17:50:00Z, NakladyStavby/PolozkoveCeny/VnitrniDvere.md
+- chars: 0
+- run: 20261020T171203Z-410e
+
+## [2026-10-20] ingest | Položkové ceny interiérového schodiště RD v ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/Schodiste.md
+- chars: 0
+- run: 20261020T171319Z-b156
+
+## [2026-10-20] review | Položkové ceny interiérového schodiště RD v ČR 2025–2026
+
+- pages: LAST_VERIFY=2026-10-20T18:00:00Z, NakladyStavby/PolozkoveCeny/Schodiste.md
+- chars: 0
+- run: 20261020T171452Z-ca99
+
+## [2026-10-21] ingest | Položkové ceny vnitřních povrchů a vybavení RD v ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/VnitrniPovrchy.md
+- chars: 22233
+- run: 20261021T064109Z-bdcd
+
+## [2026-10-21] ingest | Položkové ceny vnitřních povrchů a vybavení RD v ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/VnitrniPovrchy.md
+- chars: 5281
+- run: 20261021T064642Z-2dc1
+
+## [2026-10-21] review | Položkové ceny vnitřních povrchů a vybavení RD v ČR 2025–2026
+
+- pages: LAST_VERIFY=2026-10-21T06:55:00Z, NakladyStavby/PolozkoveCeny/VnitrniPovrchy.md
+- chars: 0
+- run: 20261021T064813Z-e1da
+
+## [2026-10-21] ingest | Položkové ceny venkovních úprav a domovních rozvodů RD v ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/VenkovniUpravy.md
+- chars: 3701
+- run: 20261021T113734Z-8981
+
+## [2026-10-21] ingest | Položkové ceny venkovních úprav a domovních rozvodů RD v ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/VenkovniUpravy.md
+- chars: 1500
+- run: 20261021T113949Z-0039
+
+## [2026-10-21] review | Položkové ceny venkovních úprav a domovních rozvodů RD v ČR 2025–2026
+
+- pages: LAST_VERIFY=2026-10-21T11:45:00Z, NakladyStavby/PolozkoveCeny/VenkovniUpravy.md
+- chars: 0
+- run: 20261021T114032Z-5fbd
+
+## [2026-10-21] ingest | Vedlejší náklady stavby RD v ČR 2025–2026 — zařízení staveniště, energie, doprava, geodet, správní poplatky, dozor
+
+- pages: NakladyStavby/PolozkoveCeny/VedlejsiNaklady.md
+- chars: 16350
+- run: 20261021T114717Z-788b
+
+## [2026-10-21] ingest | Vedlejší náklady stavby RD v ČR 2025–2026 — zařízení staveniště, energie, doprava, geodet, správní poplatky, dozor
+
+- pages: NakladyStavby/PolozkoveCeny/VedlejsiNaklady.md
+- chars: 1852
+- run: 20261021T115036Z-a4ae
+
+## [2026-10-21] review | Vedlejší náklady stavby RD v ČR 2025–2026 — zařízení staveniště, energie, doprava, geodet, správní poplatky, dozor
+
+- pages: LAST_VERIFY=2026-10-21T12:00:00Z, NakladyStavby/PolozkoveCeny/VedlejsiNaklady.md
+- chars: 0
+- run: 20261021T115123Z-dcb6
+
+## [2026-10-21] ingest | Položkové ceny doplňků dřevěných stropů, podlahy nad větraným prostorem a základů RD v ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/StropyZakladyDoplnky.md
+- chars: 14650
+- run: 20261021T115735Z-75f3
+
+## [2026-10-21] ingest | Položkové ceny doplňků dřevěných stropů, podlahy nad větraným prostorem a základů RD v ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/StropyZakladyDoplnky.md
+- chars: 13000
+- run: 20261021T120156Z-ccd5
+
+## [2026-10-21] review | Položkové ceny doplňků dřevěných stropů, podlahy nad větraným prostorem a základů RD v ČR 2025–2026
+
+- pages: LAST_VERIFY=2026-10-21T12:10:00Z, NakladyStavby/PolozkoveCeny/StropyZakladyDoplnky.md
+- chars: 0
+- run: 20261021T120414Z-a65e
+
+## [2026-10-21] ingest | Položkové ceny doplňků slaměné stěny a dřevěných konstrukcí RD v ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/HlinenneOmitky.md, NakladyStavby/PolozkoveCeny/SlamenaStenaDoplnky.md
+- chars: 16648
+- run: 20261021T121100Z-5c30
+
+## [2026-10-21] review | Položkové ceny doplňků slaměné stěny a dřevěných konstrukcí RD v ČR 2025–2026
+
+- pages: LAST_VERIFY=2026-10-21T12:22:00Z, NakladyStavby/PolozkoveCeny/SlamenaStenaDoplnky.md
+- chars: 0
+- run: 20261021T122127Z-ad31
+
+## [2026-10-21] review | Položkové ceny doplňků slaměné stěny a dřevěných konstrukcí RD v ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/HlinenneOmitky.md
+- chars: 0
+- run: 20261021T122155Z-67f2
+
+## [2026-10-21] ingest | Položkové ceny zařizovacích předmětů, ohřevu vody, svítidel a montáží TZB pro RD v ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/Elektroinstalace.md, NakladyStavby/PolozkoveCeny/Zti.md
+- chars: 0
+- run: 20261021T122723Z-2ea5
+
+## [2026-10-21] ingest | Položkové ceny zařizovacích předmětů, ohřevu vody, svítidel a montáží TZB pro RD v ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/Elektroinstalace.md, NakladyStavby/PolozkoveCeny/Zti.md
+- chars: 0
+- run: 20261021T123111Z-17e5
+
+## [2026-10-21] review | Položkové ceny zařizovacích předmětů, ohřevu vody, svítidel a montáží TZB pro RD v ČR 2025–2026
+
+- pages: LAST_VERIFY=2026-10-21T12:40:00Z, NakladyStavby/PolozkoveCeny/Zti.md
+- chars: 0
+- run: 20261021T123302Z-3502
+
+## [2026-10-21] review | Položkové ceny zařizovacích předmětů, ohřevu vody, svítidel a montáží TZB pro RD v ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/Elektroinstalace.md
+- chars: 0
+- run: 20261021T123357Z-a91a
+
+## [2026-10-21] ingest | Položkové ceny drobných doplňků výplní otvorů, schodiště a střechy RD v ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/Okna.md, NakladyStavby/PolozkoveCeny/Schodiste.md, NakladyStavby/PolozkoveCeny/Strecha.md, NakladyStavby/PolozkoveCeny/VnitrniDvere.md
+- chars: 0
+- run: 20261021T163322Z-abc8
+
+## [2026-10-21] review | Položkové ceny drobných doplňků výplní otvorů, schodiště a střechy RD v ČR 2025–2026
+
+- pages: LAST_VERIFY=2026-10-21T16:40:00Z, NakladyStavby/PolozkoveCeny/Strecha.md
+- chars: 0
+- run: 20261021T163619Z-1334
+
+## [2026-10-21] review | Položkové ceny drobných doplňků výplní otvorů, schodiště a střechy RD v ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/Okna.md
+- chars: 0
+- run: 20261021T163700Z-15fd
+
+## [2026-10-21] review | Položkové ceny drobných doplňků výplní otvorů, schodiště a střechy RD v ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/VnitrniDvere.md
+- chars: 0
+- run: 20261021T163700Z-d0d9
+
+## [2026-10-21] review | Položkové ceny drobných doplňků výplní otvorů, schodiště a střechy RD v ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/Schodiste.md
+- chars: 0
+- run: 20261021T163701Z-0b7c
+
+## [2026-10-21] ingest | Jednotkové ceny stavebních položek z veřejných položkových rozpočtů (ÚRS/RTS) ČR 2024–2026
+
+- pages: NakladyStavby/PolozkoveCeny/Elektroinstalace.md, NakladyStavby/PolozkoveCeny/Okna.md, NakladyStavby/PolozkoveCeny/SlamenaStenaDoplnky.md, NakladyStavby/PolozkoveCeny/UrsPolozky.md
+- chars: 28826
+- run: 20261021T170145Z-a600
+
+## [2026-10-21] review | Jednotkové ceny stavebních položek z veřejných položkových rozpočtů (ÚRS/RTS) ČR 2024–2026
+
+- pages: LAST_VERIFY=2026-10-21T17:06:04Z, NakladyStavby/PolozkoveCeny/UrsPolozky.md
+- chars: 0
+- run: 20261021T170544Z-bf29
+
+## [2026-10-21] review | Jednotkové ceny stavebních položek z veřejných položkových rozpočtů (ÚRS/RTS) ČR 2024–2026
+
+- pages: LAST_VERIFY=2026-10-21T17:11:16Z, NakladyStavby/PolozkoveCeny/UrsPolozky.md
+- chars: 0
+- run: 20261021T171115Z-56da
+
+## [2026-10-21] review | Jednotkové ceny stavebních položek z veřejných položkových rozpočtů (ÚRS/RTS) ČR 2024–2026
+
+- pages: LAST_VERIFY=2026-10-21T17:11:17Z, NakladyStavby/PolozkoveCeny/Okna.md
+- chars: 0
+- run: 20261021T171116Z-edc9
+
+## [2026-10-21] review | Jednotkové ceny stavebních položek z veřejných položkových rozpočtů (ÚRS/RTS) ČR 2024–2026
+
+- pages: LAST_VERIFY=2026-10-21T17:11:17Z, NakladyStavby/PolozkoveCeny/Elektroinstalace.md
+- chars: 0
+- run: 20261021T171117Z-242e
+
+## [2026-10-21] review | Jednotkové ceny stavebních položek z veřejných položkových rozpočtů (ÚRS/RTS) ČR 2024–2026
+
+- pages: LAST_VERIFY=2026-10-21T17:11:18Z, NakladyStavby/PolozkoveCeny/SlamenaStenaDoplnky.md
+- chars: 0
+- run: 20261021T171118Z-e089
+
+## [2026-10-22] ingest | Jednotkové ceny terénních úprav svahu u RD z veřejných položkových rozpočtů (ÚRS/RTS) ČR 2024–2026
+
+- pages: NakladyStavby/PolozkoveCeny/TerenniUpravySvahu.md
+- chars: 32943
+- run: 20261022T115909Z-8fba
+
+## [2026-10-22] review | Jednotkové ceny terénních úprav svahu u RD z veřejných položkových rozpočtů (ÚRS/RTS) ČR 2024–2026
+
+- pages: LAST_VERIFY=2026-10-22T12:10:00Z, NakladyStavby/PolozkoveCeny/TerenniUpravySvahu.md
+- chars: 0
+- run: 20261022T120328Z-beb8
+
+## [2026-10-22] ingest | Podhled stropu z omitky na drevenem podkladu (OSB, prkenny zaklop) - nosic omitky, skladby, ceny
+
+- pages: NakladyStavby/PolozkoveCeny/PodhledOmitka.md
+- chars: 16957
+- run: 20261022T123205Z-9dce
+
+## [2026-10-22] review | Podhled stropu z omitky na drevenem podkladu (OSB, prkenny zaklop) - nosic omitky, skladby, ceny
+
+- pages: LAST_VERIFY=2026-10-22T12:40:00Z, NakladyStavby/PolozkoveCeny/PodhledOmitka.md
+- chars: 0
+- run: 20261022T123517Z-313d
+
+## [2026-10-22] ingest | Pronajem bagru bez obsluhy pro svepomocnou stavbu RD v CR 2025-2026
+
+- pages: NakladyStavby/PolozkoveCeny/PronajemBagru.md
+- chars: 12634
+- run: 20261022T161214Z-0e5f
+
+## [2026-10-22] review | Pronajem bagru bez obsluhy pro svepomocnou stavbu RD v CR 2025-2026
+
+- pages: LAST_VERIFY=2026-10-22T16:20:00Z, NakladyStavby/PolozkoveCeny/PronajemBagru.md
+- chars: 0
+- run: 20261022T161356Z-7859
+
+## [2026-10-22] ingest | Plastová okna s trojsklem — cena dodávky ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/OknaPlast.md
+- chars: 0
+- run: 20261022T161736Z-8514
+
+## [2026-10-22] review | Plastová okna s trojsklem — cena dodávky ČR 2025–2026
+
+- pages: NakladyStavby/PolozkoveCeny/OknaPlast.md
+- chars: 0
+- run: 20261022T162218Z-9613
+
+## [2026-10-22] ingest | SDK material svepomoc
+
+- pages: NakladyStavby/PolozkoveCeny/SdkMaterial.md
+- chars: 0
+- run: 20261022T163417Z-cfa4
+
+## [2026-10-22] review | SDK material svepomoc
+
+- pages: LAST_VERIFY=2026-10-22T16:40:00Z, NakladyStavby/PolozkoveCeny/SdkMaterial.md
+- chars: 0
+- run: 20261022T163648Z-8c15
+
+## [2026-10-22] ingest | ZTI rozvody material RD
+
+- pages: NakladyStavby/PolozkoveCeny/ZtiMaterial.md
+- chars: 0
+- run: 20261022T164245Z-9e35
+
+## [2026-10-22] review | ZTI rozvody material RD
+
+- pages: NakladyStavby/PolozkoveCeny/ZtiMaterial.md
+- chars: 0
+- run: 20261022T164908Z-1d62
+
+## [2026-10-22] ingest | Materiál na vnitřní malbu — Kč/m²
+
+- pages: NakladyStavby/PolozkoveCeny/MalbaMaterial.md
+- chars: 13726
+- run: 20261022T165534Z-a48b
+
+## [2026-10-22] review | Materiál na vnitřní malbu — Kč/m²
+
+- pages: LAST_VERIFY=2026-10-22T17:05:00Z, NakladyStavby/PolozkoveCeny/MalbaMaterial.md
+- chars: 0
+- run: 20261022T170042Z-de4f
+
+## [2026-10-22] ingest | Jemná hliněná omítka — spotřeba a cena materiálu
+
+- pages: NakladyStavby/PolozkoveCeny/HlinenneOmitky.md
+- chars: 18962
+- run: 20261022T170834Z-b8b4
+
+## [2026-10-22] review | Jemná hliněná omítka — spotřeba a cena materiálu
+
+- pages: LAST_VERIFY=2026-10-22T17:12:00Z, NakladyStavby/PolozkoveCeny/HlinenneOmitky.md
+- chars: 0
+- run: 20261022T171009Z-cb73
+
+## [2026-10-22] ingest | Betonové palisády — dodávka a materiál pro patu svahu
+
+- pages: NakladyStavby/PolozkoveCeny/TerenniUpravySvahu.md
+- chars: 0
+- run: 20261022T172052Z-40b5
+
+## [2026-10-22] review | Betonové palisády — dodávka a materiál pro patu svahu
+
+- pages: LAST_VERIFY=2026-10-22T17:30:00Z, NakladyStavby/PolozkoveCeny/TerenniUpravySvahu.md
+- chars: 0
+- run: 20261022T172247Z-bc9e
+
+## [2026-10-22] ingest | Levná vana — jen materiál pro svépomoc (ČR 2025–2026)
+
+- pages: NakladyStavby/PolozkoveCeny/Zti.md
+- chars: 22242
+- run: 20261022T172603Z-1b25
+
+## [2026-10-22] review | Levná vana — jen materiál pro svépomoc (ČR 2025–2026)
+
+- pages: LAST_VERIFY=2026-10-22T17:35:00Z, NakladyStavby/PolozkoveCeny/Zti.md
+- chars: 0
+- run: 20261022T172918Z-8986
+
+## [2026-10-30] ingest | Architectural design lessons from 5 YouTube videos (house design)
+
+- pages: NavrhRD/PetZasadNavrhuDomu.md, NavrhRD/PsychologieInterieru.md
+- chars: 14000
+- run: 20261030T074202Z-3a22
+
+## [2026-10-30] review | Architectural design lessons from 5 YouTube videos (house design)
+
+- pages: LAST_VERIFY=2026-10-30T08:00:00Z, NavrhRD/PsychologieInterieru.md
+- chars: 0
+- run: 20261030T074417Z-60c6

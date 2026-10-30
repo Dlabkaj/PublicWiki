@@ -2,6 +2,26 @@
 
 Chronologicky, nejnovější nahoře.
 
+## 2026-10-22 — Betonové palisády: dodávka a materiál (svépomoc)
+
+Rozšířena stránka [[../NakladyStavby/PolozkoveCeny/TerenniUpravySvahu]], sekce 3c-bis (NERD úkol `betonove-palisady`). Kotvení podle technických listů DITON (lože C12/15 min. 100 mm, opěrka min. 1/3 výšky) a CS-BETON (kotvení cca 1/3 výšky). Viditelná výška je tedy ≈ 2/3 délky palisády: 0,4 m → palisáda 600 mm, 0,8 m → 1 200 mm. ks/bm z listů BEST (Kadent, Uriko, Masiv, Premium, Rondela) a CS-BETON (City, Vera). Ceny Kč/ks z IZOMATu, HORNBACHu a PRO-DOMA (22. 10. 2026). Materiál (palisády + beton) bez DPH: ~2 060–3 240 Kč/bm pro 0,4 m (od ~1 230 s Paso) a ~3 730–5 830 Kč/bm pro 0,8 m. 13 zdrojů. **Neověřeno:** tabulka zapuštění PRESBETON a z ní odvozený beton m³/bm (originál vracel 503). Nenalezeno: ceníky BEST, DITON, PRESBETON a KB-Blok s Kč/ks; ceny DITON Grande/Alta/odlehčené a BEST Masiv; Semmelrock má jen palisádu 400 mm.
+
+## 2026-10-22 — Materiál na vnitřní malbu (svépomoc)
+
+Nová stránka [[../NakladyStavby/PolozkoveCeny/MalbaMaterial]] (NERD úkol `malba-material`). Spotřeba z technických listů (Primalex Plus CZ starší + SK 03/2018, Het Klasik 2020, Primalex Hloubková penetrace 11/2015), ceny balení s DPH z Hornbachu, Izomatu, DEK, vedesta.cz a bal.cz (22. 10. 2026). Výsledek: bílá malba 2 vrstvy cca 5–17 Kč/m² s DPH (4–14 bez); penetrace na SDK (1:1–1:2) cca 3–14 Kč/m², na sádrovou stěrku neředěně cca 10–28 Kč/m². **Rozpor:** vydatnost Primalex Plus 14–20 m²/kg (starší CZ TL) × 10–14 m²/kg (SK TL 2018, potvrzují DEK a Hornbach). 17 zdrojů. Nenalezeno: Remal bílá malba, Primalex Standard, Bauhaus, OBI (jen výňatek), drobný materiál (váleček, páska, fólie).
+
+## 2026-10-22 — Materiál vnitřního vodovodu a kanalizace RD
+
+Nová stránka [[../NakladyStavby/PolozkoveCeny/ZtiMaterial]] (NERD úkol `zti-rozvody-material`). Jednotkové ceny materiálu (PP-RCT, AL-PEX, lisovací a PPR tvarovky, návleky, kulové ventily, HT DN 32–110, KG DN 110–125, čisticí kus, větrací hlavice, přivzdušňovací ventil) z Hornbachu (s DPH, 22. 10. 2026). Délky rozvodů z jediného položkového soupisu ÚRS 2025 01 (rekonstrukce RD, registr smluv přes Hlídač státu): 142,6 m vodovodu a 70,7 m kanalizace DN 50–125 na 18 zařizovacích předmětů. Z toho modelová sestava pro RD se 2 koupelnami + WC + kuchyní + technickou (11 předmětů): materiál ~17–27,5 tis. Kč s DPH (~110–230 Kč/m² užitné plochy). 20 zdrojů. Nenalezeno: druhý e-shop (z Onda, Siko, Ptáčku, Hesteelu a Kauflandu se ceny stáhnout nepodařilo; jen Zboží.cz pro KG DN 110), rozpočet novostavby RD 120–150 m², kalkulace instalatéra s rozpadem materiál × práce, rozdělovač pitné vody.
+
+## 2026-10-22 — Terénní úpravy svahu (ÚRS z veřejných rozpočtů)
+
+Nová stránka [[../NakladyStavby/PolozkoveCeny/TerenniUpravySvahu]]. Metoda jako u UrsPolozky (fulltext Hlídače státu → soupisy prací v registru smluv → pdftotext -raw → jen řádky, kde množství × J.cena = celkem) + publikace ÚÚR 2025. 49 soupisů 2024–2026 + ÚÚR, ceny bez DPH. Obsah: odkopávky 1222511xx po objemových třídách, přemístění do 50 m, naložení a uložení do násypu, gabionová opěrná zeď, L-dílce, tvárnice ztraceného bednění, palisády, svahování a trávník ve svahu, geotextilie, rigol ze žlabovek, mikroštěrbinový a štěrbinový žlab. **Rozpory:** naložení výkopku (rámcová dohoda × ÚÚR); osazení palisád (soupisy × řemeslný portál ve VenkovniUpravy). Nenalezeno: gabion a L-zeď v Kč/bm, geomříž a protierozní rohož, složená položka „přemístit, rozprostřít, zhutnit“.
+
+## 2026-10-21 — Jednotkové ceny ÚRS/RTS z veřejných rozpočtů
+
+Nová stránka [[../NakladyStavby/PolozkoveCeny/UrsPolozky]]. Spouštěč: dvě předchozí rešerše vracely na okapový chodník, drenáž, vápenný nátěr, montáž parapetu či přímotopu jen poptávkové portály bez cen. Metoda: fulltext Hlídače státu → přílohy smluv v registru smluv (soupisy prací KROS/BUILDpower) → pdftotext → do wiki jen řádek, kde sedí množství × J.cena = celkem nebo nese cenovou úroveň ÚRS/RTS. 47 rozpočtů 2024–2026, ceny bez DPH. Nenalezeno: komplet obvodové drenáže, štítu a sloupkové stěny v Kč/m², ÚRS drenážní šachtice, osazení dřevěného rámu ostění. Krátké odkazy doplněny do Okna, Elektroinstalace a SlamenaStenaDoplnky.
+
 ## 2026-10-12 — Trasy pohybu
 
 Nová stránka [[../DispozicniVarianty/TrasyPohybu]]. Spouštěč: varianty prošly kontrolou volného místa před nábytkem i dveřmi, ale klient do půdorysu dokreslil cesty chůze a ukázal úzké uličky mezi otevřeným křídlem a nábytkem a dvoje dveře otevírané proti sobě. Metoda „nakresli pravděpodobné trasy" (desire lines) a pravidla o křídle ke stěně jsou z Arcadium 3D (zahraniční blog, bez autora a data). Šířky 90 / 60 / 45 cm ze space-planning.md. Rozměry dveří a vzdálenost od rohu z ESTAV 2844 a Českých staveb. **Rozpor:** koupelna a WC ven (ESTAV, kvůli záchraně) × dovnitř (Arcadium, kvůli chodbě). Stránka uvádí obojí.

@@ -43,3 +43,10 @@ Výztuž: mez kluzu 500 MPa, celkové prodloužení při max. zatížení min. 2
 [[Beton]]
 [[Index]]
 [[../Index]]
+
+<!-- nerd:links -->
+## See also
+
+- [[Beton]]
+- [[ZtracenoeBedneni]]
+<!-- /nerd:links -->
