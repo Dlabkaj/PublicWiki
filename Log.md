@@ -1080,3 +1080,33 @@ Append-only record of what NERD did to this wiki, newest last.
 - pages: LAST_VERIFY=2026-10-30T18:45:00Z, NakladyStavby/PolozkoveCeny/Rezivo.md, NakladyStavby/PolozkoveCeny/Strecha.md, NakladyStavby/PolozkoveCeny/UrsPolozky.md, NakladyStavby/PolozkoveCeny/VenkovniUpravy.md
 - chars: 0
 - run: 20261030T183322Z-950c
+
+## [2026-11-02] ingest | Architectural design lessons from a second batch of YouTube videos (house design)
+
+- pages: NavrhRD/Dispozice.md, NavrhRD/Interier.md, NavrhRD/OrientaceADenniSvetlo.md, NavrhRD/TechnickeZazemi.md
+- chars: 6500
+- run: 20261102T183525Z-83d0
+
+## [2026-11-02] review | Architectural design lessons from a second batch of YouTube videos (house design)
+
+- pages: NavrhRD/Dispozice.md
+- chars: 0
+- run: 20261102T183738Z-2237
+
+## [2026-11-02] review | Architectural design lessons from a second batch of YouTube videos (house design)
+
+- pages: NavrhRD/TechnickeZazemi.md
+- chars: 0
+- run: 20261102T184032Z-54eb
+
+## [2026-11-02] review | Architectural design lessons from a second batch of YouTube videos (house design)
+
+- pages: NavrhRD/OrientaceADenniSvetlo.md
+- chars: 0
+- run: 20261102T184537Z-7ab8
+
+## [2026-11-02] review | Architectural design lessons from a second batch of YouTube videos (house design)
+
+- pages: NavrhRD/Interier.md
+- chars: 0
+- run: 20261102T184922Z-25a1

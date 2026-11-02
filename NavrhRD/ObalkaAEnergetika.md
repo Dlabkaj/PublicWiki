@@ -263,5 +263,7 @@
 ## See also
 
 - [[CenaNavrhu]]
+- [[Dispozice]]
 - [[Interier]]
+- [[OrientaceADenniSvetlo]]
 <!-- /nerd:links -->

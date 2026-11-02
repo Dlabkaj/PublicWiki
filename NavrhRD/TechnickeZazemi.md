@@ -101,8 +101,59 @@
   úpravu prostoru — právě proto tyto místnosti potřebují specifické dokončovací povrchy a
   detaily (source: https://repository.tudelft.nl/record/uuid:8879ea03-693e-4aac-a7a3-50b4fdb88a04)
 
+## Větrání koupelen a vedení vzduchotechniky v dispozici (zahraniční video)
+
+Zdroj: video Home Performance Classroom, autor testuje domy jako profesi. Jednotky CFM a rekuperace
+podle amerických zvyklostí ukazují na USA, přepis to ale výslovně neříká. Názor jednoho autora,
+ne česká norma.
+
+- Pořadí v koupelně: dveře, WC mezi dveřmi a sprchou, odsávání až za WC (přesné místo autor jen
+  ukazuje na plánku). Vzduch přichází pod dveřmi, jde kolem WC k odsávání a cestou bere s sebou co
+  nejvíc. Oddělí-li se WC od sprchy, je odsávací ventilátor potřeba na obou místech
+  *(needs second source — samotné pořadí nikde jinde nedoloženo)*
+  (source: https://www.youtube.com/watch?v=rhDIc0dXOR4)
+- Přívod vzduchu do koupelny pode dveřmi nebo mřížkou ve dveřích či ve stěně uvádí i český článek;
+  o poloze odsávání vůči dveřím neříká nic
+  (source: https://www.ceskestavby.cz/clanky/jak-odvetrat-vlhke-prostory-21233.html)
+- Průtok podle videa: u rekuperace (ERV) autor počítá s 25 CFM pro sprchu a 15 CFM pro WC, tedy
+  asi 42,5 a 25,5 m³/h (1 CFM = 1,699 m³/h). Zda jde o trvalý, nebo nárazový provoz, neřekl
+  (source: https://www.youtube.com/watch?v=rhDIc0dXOR4)
+- Srovnání s českými údaji, průtok odsávání v m³/h:
+
+  | Zdroj | Koupelna | WC |
+  |---|---|---|
+  | Video (přepočet) | 42,5 | 25,5 |
+  | Článek o rekuperaci v bytech, 2005: doporučení, trvale / nárazově *(needs second source)* | 40 / 60 | 25 / 40 |
+  | Tabulka k ČSN EN 15665/Z1, nárazově: minimum / doporučeno *(needs second source — převzato z tabulky TZB-info, text placené normy nečten)* | 50 / 90 | 25 / 50 |
+
+  Srovnání recenzenta, žádný zdroj ho neuvádí: pokud autor myslí trvalý provoz, čísla odpovídají
+  řádku z roku 2005; pokud nárazový, je 42,5 m³/h u koupelny pod minimem 50 z tabulky.
+  (source: https://www.tzb-info.cz/2589-vetraci-systemy-s-rekuperaci-odpadniho-tepla-pro-bytovou-vystavbu-teorie-navrh-a-pouziti-ii)
+  (source: https://www.tzb-info.cz/tabulky-a-vypocty/33-pozadavky-na-vetrani-bytovych-prostoru)
+- § 19 vyhl. č. 146/2024 Sb. koupelnu ani WC nejmenuje; 0,5 h⁻¹ nebo 25 m³/h na osobu platí pro
+  obytnou místnost (odst. 2). Přílohy vyhlášky k tomuto bodu nečteny
+  (source: https://krajta.slv.cz/2024/146/par_19)
+- Už v dispozici určit, kudy povede instalační šachta a kde bude technika (úložný prostor, prádelna,
+  půda, podlahový prostor pod domem) a jak se napojí na rozvody; centrální prostor umožní centrální
+  zpětné vedení vzduchu (source: https://www.youtube.com/watch?v=rhDIc0dXOR4)
+- Vyhnout se velké obytné hale s vysokým stropem, která odděluje dvě křídla domu tak, že se
+  přes ni nedá protáhnout potrubí (source: https://www.youtube.com/watch?v=rhDIc0dXOR4)
+- Omezit množství techniky a počet filtrů k výměně: autor má v domě 15 filtrů, o které se musí
+  starat, a doporučuje počítat s údržbou už při plánování
+  (source: https://www.youtube.com/watch?v=rhDIc0dXOR4)
+
 ## Zdroje
 
+- https://www.youtube.com/watch?v=rhDIc0dXOR4 — Home Performance Classroom (autor testuje domy
+  jako profesi; USA jen odvozeno z jednotek a zvyklostí) — úložné prostory a vana vůči obvodové
+  stěně, pořadí v koupelně a odsávání, vedení vzduchotechniky; název videa přepis neuvádí
+- https://www.tzb-info.cz/2589-vetraci-systemy-s-rekuperaci-odpadniho-tepla-pro-bytovou-vystavbu-teorie-navrh-a-pouziti-ii
+  — Martin Jindrák, Větrací systémy s rekuperací tepla pro bytovou výstavbu (II), TZB-info, 4. 7. 2005
+- https://www.tzb-info.cz/tabulky-a-vypocty/33-pozadavky-na-vetrani-bytovych-prostoru — Požadavky
+  na větrání bytových prostorů, TZB-info (tabulka k ČSN EN 15665/Z1, bez data)
+- https://www.ceskestavby.cz/clanky/jak-odvetrat-vlhke-prostory-21233.html — Petr Pojar, Jak
+  odvětrat vlhké prostory, České stavby (aktualizováno 22. 11. 2024)
+- https://krajta.slv.cz/2024/146/par_19 — § 19 vyhl. č. 146/2024 Sb., znění od 1. 7. 2026
 - https://www.youtube.com/watch?v=rX2WInwmonw — [[Dispozice]] domu – nejčastější chyby (Online
   projektant, YouTube) — minimální plocha technické místnosti, zakreslování úložných prostor
 - https://www.youtube.com/watch?v=AMeyFhxW760 — 5. zásad dokonalého návrhu domu (Online

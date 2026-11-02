@@ -560,6 +560,46 @@
   clona proti větru nebo jako vizuální clona proti pohledu ze sousedního pozemku
   (source: https://www.youtube.com/watch?v=uXx0Rlox468)
 
+## Úložné prostory a vana vůči obvodové stěně (vlhkost, plíseň)
+
+Hlavní zdroj: video kanálu Home Performance Classroom, autor testuje domy jako profesi (jednotky
+CFM a rekuperace podle amerických zvyklostí ukazují na USA); jde o názor jednoho autora, ne o normu.
+
+- Úložné prostory a šatny je vhodné dávat dovnitř obálky, ne podél obvodových stěn: police,
+  krabice a oblečení naskládané na vnější stěnu fungují jako další izolační vrstva, za kterou
+  se dostane teplý vlhký vzduch, a na studeném povrchu pak vzniká kondenzace a plíseň. Autor
+  to zná z tiny housu na kolech, kde je vše zabudováno do stěn (source: https://www.youtube.com/watch?v=rhDIc0dXOR4).
+  Stejný jev popisuje český poradce: plíseň za nábytkem a ve vestavěných skříních je častá, protože
+  tam vzduch nemůže proudit (source: https://www.ceskestavby.cz/poradna/plisen-603.html)
+- Zatuchlý zápach šatny na obvodové stěně se podle autora objevuje i v nových domech po několika
+  letech *(needs second source)* (source: https://www.youtube.com/watch?v=rhDIc0dXOR4)
+- Nejrizikovější je šatna na vnějším rohu domu; autor uvádí příklady, kdy v zádveří i v ložnici
+  vybírá stěnu bez vnějšího líce pro regály a skříně (source: https://www.youtube.com/watch?v=rhDIc0dXOR4).
+  Chladnější kouty a napojení stěn potvrzuje i český poradce, ovšem u panelového domu
+  (source: https://www.ceskestavby.cz/poradna/plisen-603.html)
+- **Síla pravidla závisí na kvalitě stěny.** Obě opory pocházejí z horších konstrukcí než dobře
+  zateplený zděný dům: tiny house a český panelový dům s U ≈ 0,69 W/(m²·K). Rozhoduje teplota
+  vnitřního povrchu: německá firma ISO-Chemie uvádí pro −5 °C venku a 20 °C uvnitř
+  mez alespoň 12,6 °C (teplotní faktor 0,7), pod kterou hrozí při vlhkosti kolem 80 % plíseň
+  (source: https://www.iso-chemie.eu/en/isopedia/building-physics/temperature-factor-frsi).
+  Výpočet teploty za skříní na zateplené stěně se nepodařilo dohledat. Pro zateplený dům proto
+  platí jako mírná preference (když je volba, dát skříň na vnitřní stěnu, zejména ne do vnějšího
+  rohu), ne jako tvrdé pravidlo *(needs second source — chybí výpočet nebo měření za nábytkem na
+  zateplené stěně)*
+- Vanu nedávat na obvodovou stěnu: rychleji vychládá (autor myslí dlouhé společné koupání)
+  (source: https://www.youtube.com/watch?v=rhDIc0dXOR4). Důvodem je tedy pohodlí, ne plíseň. Pokyny ministerstva energetiky USA
+  vanu na obvodové stěně nezakazují: požadují za ní izolaci a vzduchotěsnou vrstvu, potíže
+  (studená vana, velké ztráty) vznikají, když se to za vanou vynechá
+  (source: https://basc.pnnl.gov/resource-guides/walls-behind-showers-and-tubs). Nepřebírat jako
+  zákaz: u stěny se souvislou izolací zvenku vana izolaci nepřerušuje, hlídat je to třeba u stěn
+  s izolací v dutině, tedy dřevostavby (úsudek z [[ObalkaAEnergetika]], český zdroj k vaně nenalezen).
+- Názor, ne pravidlo: autor tvrdí, že tepelné mosty jsou zbytečně přeceňované a "v reálném životě
+  nevadí" (dům je podle něj obří marshmallow bez ostrých hran). Opírá to jen o to, že v takových
+  domech bydlel, bez měření, a sám tentýž vnější roh o větu dřív označil za nejnebezpečnější místo
+  domu (source: https://www.youtube.com/watch?v=rhDIc0dXOR4). Nepřebírat: [[ObalkaAEnergetika]] uvádí návrh bez
+  tepelných mostů mezi principy Passive House a nízká povrchová teplota je přímá příčina plísně
+  (source: https://www.iso-chemie.eu/en/isopedia/building-physics/temperature-factor-frsi).
+
 ## Zdroje
 
 - https://www.youtube.com/watch?v=uXx0Rlox468 — Embracing the Narrow Home - An Architect's
@@ -607,6 +647,10 @@
 - https://www.youtube.com/watch?v=3NvhMXm0KrE — Every Family Home Needs These 5 Features (From an Architect) (YouTube) — cirkulační smyčka, farmářská kuchyň, strategické průhledy
 - https://www.youtube.com/watch?v=TRXhwffJpts — The Death of the Open Floor Plan (YouTube) — gradient soukromí, pach z otevřené kuchyně
 - https://www.youtube.com/watch?v=NifXuSMGIAo — Bedroom Layout Mistakes (& what to do instead!) (YouTube) — ložnice u vstupu, akustický nárazník mezi ložnicemi
+- https://www.youtube.com/watch?v=rhDIc0dXOR4 — Home Performance Classroom (YouTube, název videa v přepisu neuveden) — šatny a vana vůči obvodové stěně, názor na tepelné mosty
+- https://www.ceskestavby.cz/poradna/plisen-603.html — dotaz na plíseň (poradna Českéstavby.cz, Ing. J. Veselý, Energy Centre České Budějovice) — plíseň za nábytkem a ve vestavěných skříních, kouty v panelovém domě
+- https://basc.pnnl.gov/resource-guides/walls-behind-showers-and-tubs — Walls Behind Showers and Tubs (U.S. DOE Building America Solution Center) — izolace a vzduchotěsná vrstva za vanou na obvodové stěně
+- https://www.iso-chemie.eu/en/isopedia/building-physics/temperature-factor-frsi — What is the temperature factor fRSI? (ISO-Chemie, výrobce) — mez povrchové teploty a plíseň
 
 <!-- nerd:links -->
 ## See also
@@ -614,6 +658,7 @@
 - [[CasteChybyNavrhu]]
 - [[CenaNavrhu]]
 - [[Interier]]
+- [[ObalkaAEnergetika]]
 - [[OrientaceADenniSvetlo]]
 - [[RozmeryAProporceMistnosti]]
 - [[Schodiste]]

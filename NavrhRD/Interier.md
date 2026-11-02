@@ -420,8 +420,27 @@
   podle konkrétní zóny, místo jednoho univerzálního řešení pro celou dispozici
   (source: https://www.youtube.com/watch?v=fwkcmxdGLtM)
 
+## Pořadí rozhodování o interiéru: stupnice vratnosti (rada jednoho autora)
+
+Zdroj: jedno video o zařizování domova; název ani kanál přepis neuvádí. Je to procesní rada
+jednoho mluvčího, ne stavební fakt ani pravidlo dispozice.
+
+- Autor řadí rozhodnutí podle toho, jak snadno jdou vrátit: drobný dekor (polštáře, svíčky, obrazy)
+  je levný a rychlý na opravu; koberce, závěsy, osvětlení a menší nábytek stojí víc, ale dají se
+  prodat či vyměnit; vestavěné skříně a podlahy se vracejí těžko a určují všechno kolem. Pomalé a
+  pečlivé rozhodování radí šetřit na to, co si ho zaslouží, a jmenuje pohovku, vestavby a podlahu
+  (pohovku přidává až zde, na své stupnici ji mezi těžko vratné neřadí)
+  (source: https://www.youtube.com/watch?v=tVcOYbMDgLQ)
+- Autor radí před nákupem určit pro každou místnost jednu věc, kterou má dělat dobře, ne všechno,
+  co by mohla; místnost, která má dělat všechno, podle něj nedělá nic
+  (source: https://www.youtube.com/watch?v=tVcOYbMDgLQ)
+
 ## Zdroje
 
+- https://www.youtube.com/watch?v=tVcOYbMDgLQ — video o rozhodování při zařizování domova (vkus,
+  systém, akce; název a kanál přepis neuvádí) — použita stupnice vratnosti rozhodnutí a úloha
+  místnosti; zbytek přeskočen, včetně kroku tří slov a autorových odkazů na jeho „systém" v popisu
+  videa (cenu přepis neuvádí)
 - https://www.youtube.com/watch?v=fwkcmxdGLtM — How to Separate Space in an Open Floor Plan
   (30x40 Design Workshop, YouTube) — typologie dělicích prvků v otevřené dispozici: pokoj v
   pokoji, tlustá stěna jako kontejner, tenká rovina/lamelová clona, posuvné stěny, textilní

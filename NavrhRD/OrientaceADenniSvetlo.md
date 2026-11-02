@@ -247,6 +247,12 @@
 - Vyšší (dvoupodlažní) křídlo umístěné na severní okraj pozemku plní tři funkce zároveň: clona
   výhledu k sousední zástavbě, větrolam proti studeným severním větrům a odraz denního světla
   zpět na severní fasádu nižšího jižního křídla (source: https://www.youtube.com/watch?v=ly8orBNiNQM)
+- Komunikace může hmoty domu "sešít" a měnit pohled na pozemek. V jednom projektu z videa (Maine,
+  svažitý pozemek u moře) vede příchod domů na východ, pak na jih a znovu na východ; spolu s
+  vnitřními schody kopírujícími svah tak každý prostor zachytí pozemek jinak. Přání "výhled na
+  moře z každé místnosti" je podle autora běžné tam, kde působí, a on se klientům snaží prosadit
+  hlubší prozkoumání pozemku. Jde o popis jednoho projektu, ne o obecné pravidlo
+  (source: https://www.youtube.com/watch?v=ly8orBNiNQM)
 
 ## Pilový (shed) střešní profil s prosklením nahoře (clerestory)
 
@@ -254,6 +260,11 @@
   (clerestory) účinně prosvětlí interiér i hlouběji od jižní fasády — čím výše je okno na
   stěně umístěno, tím hlouběji do interiéru dokáže dostat denní světlo
   (source: https://www.youtube.com/watch?v=ly8orBNiNQM)
+- Otevíratelná okna v clerestory umožní v pasivně ohřívaných prostorech využít komínový efekt
+  (princip viz sekce "Přirozené větrání"): teplý vzduch odchází horními okny, dole se přivádí
+  čerstvý. Video neuvádí velikost otvorů ani žádné měření
+  (source: https://www.youtube.com/watch?v=ly8orBNiNQM). Účinek podle české Wikipedie roste s
+  rozdílem teplot a výškou konstrukce (source: https://cs.wikipedia.org/wiki/Kom%C3%ADnov%C3%BD_efekt)
 
 ## Návrh hloubky a rozestupu vodorovných stínicích lamel podle slunečních úhlů
 
@@ -264,6 +275,14 @@
   Nástroje k tomu: sluneční grafy (sun charts) pro danou lokalitu, nebo aplikace/software jako
   Sunseeker (rozšířená realita, vhodné i pro rekonstrukce), SketchUp nebo Revit
   (source: https://www.youtube.com/watch?v=ly8orBNiNQM)
+- Vodorovné prvky na jihu mohou být přesah, slunolam, markýzy, clony, lamely nebo brise soleil.
+  Hloubka, rozestup a spotřeba materiálu se ladí zkoušením; čím materiálově úspornější systém,
+  tím levněji se stínicí systém postaví. Mechanismus letního a zimního slunce je v sekci "Stínění podle světové
+  strany fasády", výhoda venkovního stínění před vnitřním v [[ObalkaAEnergetika]]
+  (source: https://www.youtube.com/watch?v=ly8orBNiNQM)
+- Video je psané pro chladné klima v Maine a v jeho přepisu nejsou úhly slunce číselně, takže se
+  z něj do ČR přenáší jen postup, ne hodnoty. Že slunolam odstíní letní slunce a nízké zimní pustí
+  dovnitř, uvádí pro české prostředí i Deník (source: https://www.denik.cz/dum-a-byt/utek-do-stinu/)
 
 ## "Vypůjčené" světlo — techniky přenosu denního světla do hloubky dispozice
 
@@ -327,7 +346,8 @@
 - https://www.youtube.com/watch?v=ly8orBNiNQM — Architectural Design Process | Form,
   Orientation and Sunlight (30x40 Design Workshop, YouTube) — řešení konfliktu výhled vs.
   orientace rozdělením domu na křídla, pilová střecha s clerestory, návrh stínicích lamel podle
-  sluneční dráhy a klíčových kalendářních dat
+  sluneční dráhy a klíčových kalendářních dat, komínový efekt v clerestory, komunikace spojující
+  hmoty
 - https://www.youtube.com/watch?v=lWYnslzFsWs — Architect Shares Every Trick To Make a Dark
   Home BRIGHT (YouTube) — výška parapetu, poměr hloubka místnosti/výška okna, triky pro
   oboustranné osvětlení, vysoká okna a světlíky pro soukromí, barevná teplota osvětlení
@@ -349,11 +369,14 @@
 - https://thescholarship.ecu.edu/bitstream/10342/5561/1/Nathan-Mazzuca.pdf — Massing and Building Orientation in the Passive Design Process (ECU, studentská práce/interaktivní prezentace) — obecná shrnutí principů pasivního designu, bez vlastních měření
 - https://www.legat.com/architecture-and-daylight-planning-strategies-for-energy-efficient-buildings/ — Architecture and Daylight: Planning Strategies for Energy-Efficient Buildings (Legat Architects, 2021) — orientace, kvalita světla podle strany, typy hmoty (bar/H/O) a jejich vliv na denní osvětlení
 - https://planning.dc.gov/sites/default/files/dc/sites/op/publication/attachments/140318_CHASEPatternBook-LO_Part1_0.pdf — CHASE Neighborhoods Pattern Book (DC Office of Planning, 2014) — jen poznámka o světlících u úzkých pozemků, zbytek (dobové slohy, pozemkové statistiky) mimo scope
+- https://cs.wikipedia.org/wiki/Kom%C3%ADnov%C3%BD_efekt — Komínový efekt (česká Wikipedie) — princip proudění, závislost na rozdílu teplot a výšce
+- https://www.denik.cz/dum-a-byt/utek-do-stinu/ — Útěk do stínu (Marie Lucová, Deník, 9. 7. 2022) — slunolam a letní/zimní slunce; článek odkazuje na prodejce stínění, pro technické údaje nepoužívat
 
 <!-- nerd:links -->
 ## See also
 
 - [[Dispozice]]
 - [[Interier]]
+- [[ObalkaAEnergetika]]
 - [[Schodiste]]
 <!-- /nerd:links -->
