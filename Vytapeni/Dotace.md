@@ -12,6 +12,8 @@
 
 ---
 
+> ⚠️ CONFLICT s oficiálními pokyny SFŽP pro úvěr na RD (platné od 28. 5. 2026, https://sfzp.gov.cz/files/documents/storage/2026/05/29/1780055187_2026-05-27_NZÚ-RD26+.pdf): renovační pas je povinný jen u dílčích opatření, komplexní renovace dokládá PD + PENB (čl. 4.1); splatnost 25 let jen pro úzkou skupinu (čl. 2.3 k); novostavba se nepodporuje kromě náhrady odstraněného RD (čl. 2.2 d) a zdroje (oblast C) jen u budov kolaudovaných před 1. 1. 2023 (čl. 3.2 a). Detail: [[Legislativa/PENB/NZU-2026-dotace-rodinne-domy]].
+
 ## Zásadní změna 2026: přechod z dotací na úvěry
 
 Od roku 2026 nahrazuje klasická plošná dotace **bezúročný úvěr** — stát hradí úroky z bankovního úvěru, žadatel splácí jen jistinu. Přímá dotace zůstává **pouze pro zranitelné (nízkopříjmové) domácnosti** v rámci NZÚ Light.

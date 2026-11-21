@@ -270,6 +270,7 @@ Update this file whenever a page is added or removed.
 - [[HmotoveReseniRD/StrechaATeren/Index]] — Landing page for Střecha a vztah hmoty RD k terénu. Sub-pages:
 - [[KontrolaVarianty/Index]] — Podklad pro fázi B5: verdikt pro každou dispoziční variantu z B4 — projde / projde s pojmenovanou výjimkou /…
 - [[Legislativa/Index]] — Právní rámec, ve kterém vzniká architektonická studie rodinného domu.
+- [[Legislativa/PENB/Index]] — Landing page for Průkaz energetické náročnosti budovy (energetický štítek) RD v ČR. Sub-pages:
 - [[Legislativa/PozarniBezpecnostRD/Index]] — Landing page for Pozarne nebezpecny prostor a pozarni odstupy rodinneho domu. Sub-pages:
 - [[Legislativa/StavebniObalka/Index]] — Landing page for Stavebni obalka pozemku (B1) - ceska legislativa a normy pro odvozeni zastavitelneho polygonu.
 - [[Mobilheim/Index]] — Summary: Posouzení mobilheimu a modulového domu jako celoročního bydlení v ČR — legislativa umístění na pozemek (NSZ…

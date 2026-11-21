@@ -1110,3 +1110,99 @@ Append-only record of what NERD did to this wiki, newest last.
 - pages: NavrhRD/Interier.md
 - chars: 0
 - run: 20261102T184922Z-25a1
+
+## [2026-11-17] ingest | Průkaz energetické náročnosti budovy (energetický štítek) RD v ČR
+
+- pages: Legislativa/PENB/Vyhlaska-264-2020-vypocet-a-tridy.md
+- chars: 12095
+- run: 20261117T161354Z-39c5
+
+## [2026-11-17] ingest | Průkaz energetické náročnosti budovy (energetický štítek) RD v ČR
+
+- pages: Legislativa/PENB/Zakon-406-2000-penb.md
+- chars: 10287
+- run: 20261117T161536Z-4954
+
+## [2026-11-17] ingest | Průkaz energetické náročnosti budovy (energetický štítek) RD v ČR
+
+- pages: Legislativa/PENB/Vyhlaska-264-2020-vypocet-a-tridy.md, Legislativa/PENB/Zakon-406-2000-penb.md
+- chars: 10346
+- run: 20261117T161652Z-51b1
+
+## [2026-11-17] ingest | Průkaz energetické náročnosti budovy (energetický štítek) RD v ČR
+
+- pages: Legislativa/PENB/NZU-2026-dotace-rodinne-domy.md, Legislativa/PENB/PENB-povinnost-a-cena-prakticky.md, Legislativa/PENB/Zatepleni-a-cesty-ke-tride-B-naklady.md
+- chars: 12359
+- run: 20261117T161840Z-f8a9
+
+## [2026-11-17] ingest | Průkaz energetické náročnosti budovy (energetický štítek) RD v ČR
+
+- pages: Legislativa/PENB/Referencni-budova-a-zdroj-energie-hlavni-paka-ke-tride-B.md
+- chars: 10338
+- run: 20261117T162106Z-2b12
+
+## [2026-11-17] ingest | Průkaz energetické náročnosti budovy (energetický štítek) RD v ČR
+
+- pages: Legislativa/PENB/Zakon-406-2000-penb.md, Legislativa/PENB/Zatepleni-a-cesty-ke-tride-B-naklady.md
+- chars: 5350
+- run: 20261117T162244Z-b740
+
+## [2026-11-17] ingest | Průkaz energetické náročnosti budovy (energetický štítek) RD v ČR
+
+- pages: Legislativa/PENB/NZU-2026-dotace-rodinne-domy.md, Legislativa/PENB/PENB-povinnost-a-cena-prakticky.md, Legislativa/PENB/Zatepleni-a-cesty-ke-tride-B-naklady.md
+- chars: 8000
+- run: 20261117T162751Z-d47c
+
+## [2026-11-17] ingest | Průkaz energetické náročnosti budovy (energetický štítek) RD v ČR
+
+- pages: Legislativa/PENB/NZU-2026-dotace-rodinne-domy.md
+- chars: 15198
+- run: 20261117T163038Z-64aa
+
+## [2026-11-17] ingest | Průkaz energetické náročnosti budovy (energetický štítek) RD v ČR
+
+- pages: Legislativa/PENB/NZU-2026-dotace-rodinne-domy.md
+- chars: 6590
+- run: 20261117T163226Z-4ffc
+
+## [2026-11-17] ingest | Průkaz energetické náročnosti budovy (energetický štítek) RD v ČR
+
+- pages: Legislativa/PENB/NZU-2026-dotace-rodinne-domy.md
+- chars: 3368
+- run: 20261117T163328Z-e030
+
+## [2026-11-17] review | Průkaz energetické náročnosti budovy (energetický štítek) RD v ČR
+
+- pages: LAST_VERIFY=2026-11-17T17:00:00Z, Legislativa/PENB/Vyhlaska-264-2020-vypocet-a-tridy.md
+- chars: 0
+- run: 20261117T163435Z-6465
+
+## [2026-11-17] review | Průkaz energetické náročnosti budovy (energetický štítek) RD v ČR
+
+- pages: LAST_VERIFY=2026-11-17T17:00:00Z, Legislativa/PENB/Zakon-406-2000-penb.md
+- chars: 0
+- run: 20261117T163628Z-3dbf
+
+## [2026-11-17] review | Průkaz energetické náročnosti budovy (energetický štítek) RD v ČR
+
+- pages: LAST_VERIFY=2026-11-17T17:00:00Z, Legislativa/PENB/PENB-povinnost-a-cena-prakticky.md
+- chars: 0
+- run: 20261117T163801Z-3b53
+
+## [2026-11-17] review | Průkaz energetické náročnosti budovy (energetický štítek) RD v ČR
+
+- pages: LAST_VERIFY=2026-11-17T17:00:00Z, Legislativa/PENB/Referencni-budova-a-zdroj-energie-hlavni-paka-ke-tride-B.md
+- chars: 0
+- run: 20261117T164115Z-4c08
+
+## [2026-11-17] review | Průkaz energetické náročnosti budovy (energetický štítek) RD v ČR
+
+- pages: LAST_VERIFY=2026-11-17T17:00:00Z, Legislativa/PENB/Zatepleni-a-cesty-ke-tride-B-naklady.md
+- chars: 0
+- run: 20261117T164415Z-7f4a
+
+## [2026-11-17] review | Průkaz energetické náročnosti budovy (energetický štítek) RD v ČR
+
+- pages: Legislativa/PENB/NZU-2026-dotace-rodinne-domy.md, Vytapeni/Dotace.md
+- chars: 0
+- run: 20261117T164713Z-a5de
